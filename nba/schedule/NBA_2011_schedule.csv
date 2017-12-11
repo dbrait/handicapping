@@ -1,0 +1,1621 @@
+Key,year,month,day_of_month,full_date,time_of_game,away_team_name,away_team_league,home_team_name,home_team_league
+1,2011,01,01,01/01/2011,7:30 PM,Magic,East,Nets,East
+2,2011,01,01,01/01/2011,7:30 PM,Bucks,East,Raptors,East
+3,2011,01,01,01/01/2011,8:00 PM,Blazers,West,Bulls,East
+4,2011,01,01,01/01/2011,8:00 PM,Lakers,West,Timberwolves,West
+5,2011,01,02,01/02/2011,10:00 PM,Hornets,East,Kings,West
+6,2011,01,02,01/02/2011,10:30 PM,Grizzlies,West,Clippers,West
+7,2011,01,02,01/02/2011,7:00 PM,Blazers,West,Cavaliers,East
+8,2011,01,02,01/02/2011,7:30 PM,Spurs,West,Knicks,East
+9,2011,01,02,01/02/2011,9:00 PM,Hawks,East,Suns,West
+10,2011,01,03,01/03/2011,10:30 PM,Thunder,West,Lakers,West
+11,2011,01,03,01/03/2011,7:00 PM,Spurs,West,76ers,East
+12,2011,01,03,01/03/2011,7:00 PM,Rockets,West,Magic,East
+13,2011,01,03,01/03/2011,7:00 PM,Knicks,East,Wizards,East
+14,2011,01,03,01/03/2011,7:30 PM,Pistons,East,Heat,East
+15,2011,01,03,01/03/2011,7:30 PM,Timberwolves,West,Nets,East
+16,2011,01,03,01/03/2011,8:00 PM,Pacers,East,Bucks,East
+17,2011,01,03,01/03/2011,8:00 PM,Raptors,East,Bulls,East
+18,2011,01,03,01/03/2011,8:00 PM,Cavaliers,East,Celtics,East
+19,2011,01,03,01/03/2011,8:30 PM,Warriors,West,Mavericks,West
+20,2011,01,03,01/03/2011,9:00 PM,Pelicans,West,Jazz,West
+21,2011,01,03,01/03/2011,9:00 PM,Suns,West,Nuggets,West
+22,2011,01,04,01/04/2011,10:30 PM,Thunder,West,Clippers,West
+23,2011,01,04,01/04/2011,8:00 PM,Warriors,West,Rockets,West
+24,2011,01,05,01/05/2011,10:00 PM,Hawks,East,Blazers,West
+25,2011,01,05,01/05/2011,10:30 PM,Hornets,East,Lakers,West
+26,2011,01,05,01/05/2011,7:00 PM,Pistons,East,76ers,East
+27,2011,01,05,01/05/2011,7:00 PM,Knicks,East,Heat,East
+28,2011,01,05,01/05/2011,7:30 PM,Timberwolves,West,Celtics,East
+29,2011,01,05,01/05/2011,8:00 PM,Raptors,East,Bucks,East
+30,2011,01,05,01/05/2011,8:30 PM,Bulls,East,Mavericks,West
+31,2011,01,05,01/05/2011,8:30 PM,Suns,West,Spurs,West
+32,2011,01,05,01/05/2011,9:00 PM,Jazz,West,Nuggets,West
+33,2011,01,05,01/05/2011,9:30 PM,Wizards,East,Grizzlies,West
+34,2011,01,06,01/06/2011,10:00 PM,Nuggets,West,Kings,West
+35,2011,01,06,01/06/2011,3:30 PM,Warriors,West,Clippers,West
+36,2011,01,06,01/06/2011,6:00 PM,Celtics,East,Nets,East
+37,2011,01,06,01/06/2011,7:00 PM,Cavaliers,East,Magic,East
+38,2011,01,06,01/06/2011,7:00 PM,Bulls,East,Pacers,East
+39,2011,01,06,01/06/2011,7:00 PM,Rockets,West,Pistons,East
+40,2011,01,06,01/06/2011,8:00 PM,Bucks,East,Wizards,East
+41,2011,01,06,01/06/2011,9:00 PM,Pelicans,West,Timberwolves,West
+42,2011,01,07,01/07/2011,3:30 PM,Jazz,West,Heat,East
+43,2011,01,07,01/07/2011,7:00 PM,Knicks,East,Mavericks,West
+44,2011,01,07,01/07/2011,8:00 PM,Thunder,West,Suns,West
+45,2011,01,07,01/07/2011,9:00 PM,Spurs,West,Blazers,West
+46,2011,01,07,01/07/2011,9:30 PM,Hawks,East,Lakers,West
+47,2011,01,08,01/08/2011,10:00 PM,Spurs,West,Kings,West
+48,2011,01,08,01/08/2011,10:30 PM,Hawks,East,Clippers,West
+49,2011,01,08,01/08/2011,10:30 PM,Nuggets,West,Warriors,West
+50,2011,01,08,01/08/2011,7:00 PM,Bucks,East,Pacers,East
+51,2011,01,08,01/08/2011,7:30 PM,Raptors,East,Nets,East
+52,2011,01,08,01/08/2011,8:00 PM,Rockets,West,Bulls,East
+53,2011,01,08,01/08/2011,8:00 PM,Pistons,East,Pelicans,West
+54,2011,01,08,01/08/2011,8:00 PM,Cavaliers,East,Timberwolves,West
+55,2011,01,09,01/09/2011,10:30 PM,Kings,West,Lakers,West
+56,2011,01,09,01/09/2011,7:30 PM,Heat,East,Raptors,East
+57,2011,01,09,01/09/2011,8:00 PM,Blazers,West,Thunder,West
+58,2011,01,09,01/09/2011,8:30 PM,Magic,East,Mavericks,West
+59,2011,01,10,01/10/2011,10:30 PM,Clippers,West,Warriors,West
+60,2011,01,10,01/10/2011,7:00 PM,Mavericks,West,Hornets,East
+61,2011,01,10,01/10/2011,7:00 PM,Heat,East,Pacers,East
+62,2011,01,10,01/10/2011,7:00 PM,Jazz,West,Wizards,East
+63,2011,01,10,01/10/2011,7:30 PM,Bulls,East,Knicks,East
+64,2011,01,10,01/10/2011,7:30 PM,Pistons,East,Nets,East
+65,2011,01,10,01/10/2011,8:00 PM,Magic,East,Bucks,East
+66,2011,01,10,01/10/2011,8:00 PM,Pelicans,West,Grizzlies,West
+67,2011,01,10,01/10/2011,8:00 PM,Blazers,West,Rockets,West
+68,2011,01,10,01/10/2011,8:00 PM,Thunder,West,Timberwolves,West
+69,2011,01,10,01/10/2011,9:00 PM,Hawks,East,Nuggets,West
+70,2011,01,11,01/11/2011,10:00 PM,Clippers,West,Kings,West
+71,2011,01,11,01/11/2011,10:30 PM,Spurs,West,Lakers,West
+72,2011,01,11,01/11/2011,3:00 PM,Celtics,East,76ers,East
+73,2011,01,11,01/11/2011,8:00 PM,Cavaliers,East,Raptors,East
+74,2011,01,12,01/12/2011,10:30 PM,Rockets,West,Suns,West
+75,2011,01,12,01/12/2011,7:00 PM,Jazz,West,Hornets,East
+76,2011,01,12,01/12/2011,7:00 PM,Cavaliers,East,Pacers,East
+77,2011,01,12,01/12/2011,7:00 PM,Magic,East,Wizards,East
+78,2011,01,12,01/12/2011,7:30 PM,Nets,East,Hawks,East
+79,2011,01,12,01/12/2011,8:00 PM,Warriors,West,Bucks,East
+80,2011,01,12,01/12/2011,8:00 PM,Blazers,West,Pelicans,West
+81,2011,01,12,01/12/2011,8:00 PM,Knicks,East,Timberwolves,West
+82,2011,01,12,01/12/2011,9:00 PM,Grizzlies,West,Nuggets,West
+83,2011,01,13,01/13/2011,2:00 PM,Lakers,West,Mavericks,West
+84,2011,01,13,01/13/2011,3:30 PM,Kings,West,Clippers,West
+85,2011,01,13,01/13/2011,5:00 PM,Thunder,West,Hornets,East
+86,2011,01,13,01/13/2011,7:00 PM,Nets,East,Wizards,East
+87,2011,01,13,01/13/2011,7:30 PM,Warriors,West,Raptors,East
+88,2011,01,13,01/13/2011,8:00 PM,Pistons,East,Bulls,East
+89,2011,01,13,01/13/2011,8:30 PM,Nuggets,West,Spurs,West
+90,2011,01,14,01/14/2011,1:00 PM,Bucks,East,Heat,East
+91,2011,01,14,01/14/2011,3:30 PM,Pelicans,West,Knicks,East
+92,2011,01,14,01/14/2011,8:00 PM,Pacers,East,Suns,West
+93,2011,01,14,01/14/2011,9:00 PM,Blazers,West,Timberwolves,West
+94,2011,01,15,01/15/2011,10:30 PM,Rockets,West,Clippers,West
+95,2011,01,15,01/15/2011,12:30 PM,Hornets,East,Pistons,East
+96,2011,01,15,01/15/2011,1:00 PM,Raptors,East,76ers,East
+97,2011,01,15,01/15/2011,2:00 PM,Bucks,East,Wizards,East
+98,2011,01,15,01/15/2011,3:00 PM,Spurs,West,Hawks,East
+99,2011,01,15,01/15/2011,3:00 PM,Knicks,East,Nets,East
+100,2011,01,15,01/15/2011,3:30 PM,Heat,East,Bulls,East
+101,2011,01,15,01/15/2011,5:30 PM,Lakers,West,Grizzlies,West
+102,2011,01,15,01/15/2011,8:00 PM,Warriors,West,Cavaliers,East
+103,2011,01,15,01/15/2011,8:00 PM,Kings,West,Thunder,West
+104,2011,01,15,01/15/2011,9:00 PM,Pacers,East,Jazz,West
+105,2011,01,16,01/16/2011,10:00 PM,Suns,West,Blazers,West
+106,2011,01,16,01/16/2011,7:00 PM,Timberwolves,West,Magic,East
+107,2011,01,16,01/16/2011,7:30 PM,Pelicans,West,Celtics,East
+108,2011,01,16,01/16/2011,9:00 PM,Mavericks,West,Nuggets,West
+109,2011,01,17,01/17/2011,10:00 PM,Jazz,West,Kings,West
+110,2011,01,17,01/17/2011,10:30 PM,Nuggets,West,Clippers,West
+111,2011,01,17,01/17/2011,7:00 PM,Wizards,East,Hornets,East
+112,2011,01,17,01/17/2011,7:30 PM,Pelicans,West,Hawks,East
+113,2011,01,17,01/17/2011,7:30 PM,Spurs,West,Nets,East
+114,2011,01,17,01/17/2011,7:30 PM,Pistons,East,Raptors,East
+115,2011,01,17,01/17/2011,8:00 PM,Heat,East,Bucks,East
+116,2011,01,17,01/17/2011,8:00 PM,Warriors,West,Bulls,East
+117,2011,01,17,01/17/2011,8:00 PM,Knicks,East,Grizzlies,West
+118,2011,01,17,01/17/2011,8:00 PM,Lakers,West,Thunder,West
+119,2011,01,18,01/18/2011,10:00 PM,Pacers,East,Blazers,West
+120,2011,01,18,01/18/2011,7:00 PM,Magic,East,Cavaliers,East
+121,2011,01,18,01/18/2011,7:00 PM,76ers,East,Celtics,East
+122,2011,01,18,01/18/2011,9:30 PM,Timberwolves,West,Rockets,West
+123,2011,01,19,01/19/2011,10:30 PM,Knicks,East,Jazz,West
+124,2011,01,19,01/19/2011,10:30 PM,Pacers,East,Lakers,West
+125,2011,01,19,01/19/2011,7:00 PM,Spurs,West,Raptors,East
+126,2011,01,19,01/19/2011,7:30 PM,Heat,East,Nets,East
+127,2011,01,19,01/19/2011,8:00 PM,Kings,West,Grizzlies,West
+128,2011,01,19,01/19/2011,8:00 PM,Wizards,East,Pistons,East
+129,2011,01,19,01/19/2011,9:00 PM,Suns,West,Nuggets,West
+130,2011,01,20,01/20/2011,10:00 PM,Mavericks,West,Blazers,West
+131,2011,01,20,01/20/2011,3:30 PM,Thunder,West,Cavaliers,East
+132,2011,01,20,01/20/2011,5:00 PM,Bulls,East,Hawks,East
+133,2011,01,20,01/20/2011,7:00 PM,Heat,East,Hornets,East
+134,2011,01,20,01/20/2011,7:00 PM,Grizzlies,West,Pelicans,West
+135,2011,01,20,01/20/2011,7:30 PM,Bucks,East,76ers,East
+136,2011,01,20,01/20/2011,8:30 PM,Warriors,West,Rockets,West
+137,2011,01,20,01/20/2011,9:00 PM,Clippers,West,Jazz,West
+138,2011,01,20,01/20/2011,9:00 PM,Raptors,East,Timberwolves,West
+139,2011,01,21,01/21/2011,1:00 PM,Magic,East,Celtics,East
+140,2011,01,21,01/21/2011,3:30 PM,Knicks,East,Lakers,West
+141,2011,01,21,01/21/2011,4:00 PM,Nets,East,Pistons,East
+142,2011,01,21,01/21/2011,7:00 PM,Pacers,East,Spurs,West
+143,2011,01,22,01/22/2011,10:30 PM,Timberwolves,West,Clippers,West
+144,2011,01,22,01/22/2011,7:00 PM,Kings,West,Hornets,East
+145,2011,01,22,01/22/2011,7:30 PM,Jazz,West,Hawks,East
+146,2011,01,22,01/22/2011,8:00 PM,Suns,West,Bucks,East
+147,2011,01,22,01/22/2011,8:00 PM,76ers,East,Grizzlies,West
+148,2011,01,22,01/22/2011,8:00 PM,Bulls,East,Pelicans,West
+149,2011,01,22,01/22/2011,8:00 PM,Heat,East,Rockets,West
+150,2011,01,22,01/22/2011,8:30 PM,Wizards,East,Mavericks,West
+151,2011,01,22,01/22/2011,9:00 PM,Blazers,West,Nuggets,West
+152,2011,01,23,01/23/2011,10:30 PM,Celtics,East,Lakers,West
+153,2011,01,23,01/23/2011,10:30 PM,Knicks,East,Warriors,West
+154,2011,01,23,01/23/2011,7:00 PM,Kings,West,Magic,East
+155,2011,01,23,01/23/2011,8:00 PM,Cavaliers,East,Spurs,West
+156,2011,01,23,01/23/2011,8:00 PM,Nets,East,Thunder,West
+157,2011,01,24,01/24/2011,10:00 PM,Timberwolves,West,Blazers,West
+158,2011,01,24,01/24/2011,10:30 PM,Celtics,East,Clippers,West
+159,2011,01,24,01/24/2011,7:00 PM,Bulls,East,76ers,East
+160,2011,01,24,01/24/2011,7:00 PM,Pelicans,West,Hornets,East
+161,2011,01,24,01/24/2011,7:00 PM,Suns,West,Pacers,East
+162,2011,01,24,01/24/2011,7:00 PM,Jazz,West,Pistons,East
+163,2011,01,24,01/24/2011,7:30 PM,Raptors,East,Hawks,East
+164,2011,01,24,01/24/2011,8:00 PM,Spurs,West,Grizzlies,West
+165,2011,01,24,01/24/2011,8:00 PM,Rockets,West,Mavericks,West
+166,2011,01,25,01/25/2011,10:30 PM,Timberwolves,West,Warriors,West
+167,2011,01,25,01/25/2011,7:30 PM,Kings,West,Heat,East
+168,2011,01,25,01/25/2011,8:00 PM,Wizards,East,Thunder,West
+169,2011,01,25,01/25/2011,9:00 PM,Knicks,East,Nuggets,West
+170,2011,01,26,01/26/2011,7:00 PM,Hawks,East,Hornets,East
+171,2011,01,26,01/26/2011,7:30 PM,Pacers,East,Cavaliers,East
+172,2011,01,26,01/26/2011,7:30 PM,Jazz,West,Raptors,East
+173,2011,01,26,01/26/2011,8:00 PM,Nets,East,Bucks,East
+174,2011,01,26,01/26/2011,8:00 PM,Lakers,West,Bulls,East
+175,2011,01,26,01/26/2011,8:00 PM,Clippers,West,Grizzlies,West
+176,2011,01,26,01/26/2011,8:00 PM,Rockets,West,Pelicans,West
+177,2011,01,26,01/26/2011,8:30 PM,Blazers,West,Mavericks,West
+178,2011,01,26,01/26/2011,8:30 PM,76ers,East,Spurs,West
+179,2011,01,26,01/26/2011,9:00 PM,Knicks,East,Suns,West
+180,2011,01,27,01/27/2011,5:00 PM,Thunder,West,Pistons,East
+181,2011,01,27,01/27/2011,7:00 PM,Magic,East,Pacers,East
+182,2011,01,27,01/27/2011,7:30 PM,Wizards,East,Hawks,East
+183,2011,01,27,01/27/2011,7:30 PM,Hornets,East,Heat,East
+184,2011,01,27,01/27/2011,8:30 PM,Celtics,East,Warriors,West
+185,2011,01,27,01/27/2011,9:00 PM,Mavericks,West,Nuggets,West
+186,2011,01,27,01/27/2011,9:00 PM,Nets,East,Timberwolves,West
+187,2011,01,28,01/28/2011,3:30 PM,Bucks,East,Bulls,East
+188,2011,01,28,01/28/2011,3:30 PM,Suns,West,Rockets,West
+189,2011,01,28,01/28/2011,4:00 PM,Clippers,West,Pelicans,West
+190,2011,01,28,01/28/2011,6:00 PM,Pistons,East,Cavaliers,East
+191,2011,01,28,01/28/2011,6:00 PM,Lakers,West,Raptors,East
+192,2011,01,28,01/28/2011,6:00 PM,76ers,East,Thunder,West
+193,2011,01,28,01/28/2011,7:00 PM,Kings,West,Spurs,West
+194,2011,01,29,01/29/2011,7:00 PM,Hornets,East,Pacers,East
+195,2011,01,29,01/29/2011,7:30 PM,Timberwolves,West,Hawks,East
+196,2011,01,29,01/29/2011,8:00 PM,76ers,East,Bucks,East
+197,2011,01,29,01/29/2011,8:00 PM,Suns,West,Grizzlies,West
+198,2011,01,29,01/29/2011,8:30 PM,Heat,East,Mavericks,West
+199,2011,01,29,01/29/2011,9:00 PM,Celtics,East,Nuggets,West
+200,2011,01,30,01/30/2011,10:30 PM,Blazers,West,Clippers,West
+201,2011,01,30,01/30/2011,7:00 PM,Thunder,West,Wizards,East
+202,2011,01,30,01/30/2011,7:30 PM,Nets,East,Knicks,East
+203,2011,01,30,01/30/2011,7:30 PM,Timberwolves,West,Raptors,East
+204,2011,01,30,01/30/2011,8:00 PM,Kings,West,Pelicans,West
+205,2011,01,30,01/30/2011,8:00 PM,Cavaliers,East,Pistons,East
+206,2011,01,30,01/30/2011,8:00 PM,Magic,East,Rockets,West
+207,2011,01,30,01/30/2011,8:30 PM,Nuggets,West,Spurs,West
+208,2011,01,30,01/30/2011,9:00 PM,Warriors,West,Jazz,West
+209,2011,01,31,01/31/2011,10:00 PM,Bulls,East,Blazers,West
+210,2011,01,31,01/31/2011,10:30 PM,Mavericks,West,Suns,West
+211,2011,01,31,01/31/2011,7:00 PM,Lakers,West,Magic,East
+212,2011,01,31,01/31/2011,7:00 PM,Grizzlies,West,Pacers,East
+213,2011,01,31,01/31/2011,7:30 PM,Heat,East,Cavaliers,East
+214,2011,01,31,01/31/2011,7:30 PM,Hornets,East,Hawks,East
+215,2011,01,31,01/31/2011,7:30 PM,76ers,East,Nets,East
+216,2011,01,31,01/31/2011,8:00 PM,Knicks,East,Celtics,East
+217,2011,02,01,02/01/2011,10:30 PM,Thunder,West,Nuggets,West
+218,2011,02,01,02/01/2011,7:00 PM,Grizzlies,West,Pistons,East
+219,2011,02,01,02/01/2011,7:00 PM,Raptors,East,Wizards,East
+220,2011,02,01,02/01/2011,8:00 PM,Rockets,West,Spurs,West
+221,2011,02,01,02/01/2011,8:00 PM,Bucks,East,Timberwolves,West
+222,2011,02,02,02/02/2011,10:30 PM,Warriors,West,Kings,West
+223,2011,02,02,02/02/2011,7:00 PM,Pacers,East,Hornets,East
+224,2011,02,02,02/02/2011,7:30 PM,Hawks,East,Celtics,East
+225,2011,02,02,02/02/2011,7:30 PM,Lakers,West,Nets,East
+226,2011,02,02,02/02/2011,7:30 PM,Blazers,West,Raptors,East
+227,2011,02,02,02/02/2011,8:00 PM,Heat,East,76ers,East
+228,2011,02,02,02/02/2011,8:00 PM,Knicks,East,Bucks,East
+229,2011,02,02,02/02/2011,9:00 PM,Jazz,West,Suns,West
+230,2011,02,02,02/02/2011,9:00 PM,Pelicans,West,Thunder,West
+231,2011,02,03,02/03/2011,10:00 PM,Mavericks,West,Kings,West
+232,2011,02,03,02/03/2011,3:30 PM,Bulls,East,Clippers,West
+233,2011,02,03,02/03/2011,7:00 PM,Wizards,East,Magic,East
+234,2011,02,03,02/03/2011,7:00 PM,76ers,East,Pacers,East
+235,2011,02,03,02/03/2011,7:00 PM,Heat,East,Pistons,East
+236,2011,02,03,02/03/2011,8:30 PM,Rockets,West,Cavaliers,East
+237,2011,02,03,02/03/2011,9:00 PM,Warriors,West,Nuggets,West
+238,2011,02,03,02/03/2011,9:00 PM,Jazz,West,Spurs,West
+239,2011,02,03,02/03/2011,9:00 PM,Pelicans,West,Timberwolves,West
+240,2011,02,04,02/04/2011,12:00 PM,Blazers,West,Celtics,East
+241,2011,02,04,02/04/2011,12:00 PM,Hawks,East,Knicks,East
+242,2011,02,04,02/04/2011,12:00 PM,Bucks,East,Nets,East
+243,2011,02,04,02/04/2011,12:00 PM,Grizzlies,West,Raptors,East
+244,2011,02,04,02/04/2011,2:00 PM,Lakers,West,Thunder,West
+245,2011,02,04,02/04/2011,3:00 PM,Hornets,East,Suns,West
+246,2011,02,05,02/05/2011,10:00 PM,Bulls,East,Kings,West
+247,2011,02,05,02/05/2011,10:30 PM,Mavericks,West,Clippers,West
+248,2011,02,05,02/05/2011,7:00 PM,Wizards,East,Pacers,East
+249,2011,02,05,02/05/2011,7:00 PM,Blazers,West,Pistons,East
+250,2011,02,05,02/05/2011,7:30 PM,Magic,East,Heat,East
+251,2011,02,05,02/05/2011,8:00 PM,Jazz,West,Pelicans,West
+252,2011,02,05,02/05/2011,9:00 PM,Hornets,East,Nuggets,West
+253,2011,02,06,02/06/2011,10:30 PM,Suns,West,Lakers,West
+254,2011,02,06,02/06/2011,10:30 PM,Thunder,West,Warriors,West
+255,2011,02,06,02/06/2011,7:00 PM,Cavaliers,East,Magic,East
+256,2011,02,06,02/06/2011,7:30 PM,Grizzlies,West,Hawks,East
+257,2011,02,06,02/06/2011,7:30 PM,Bucks,East,Knicks,East
+258,2011,02,06,02/06/2011,7:30 PM,Rockets,West,Nets,East
+259,2011,02,06,02/06/2011,7:30 PM,Celtics,East,Raptors,East
+260,2011,02,06,02/06/2011,8:00 PM,Wizards,East,76ers,East
+261,2011,02,07,02/07/2011,10:30 PM,Spurs,West,Suns,West
+262,2011,02,07,02/07/2011,7:00 PM,Nets,East,Pistons,East
+263,2011,02,07,02/07/2011,7:30 PM,Rockets,West,Heat,East
+264,2011,02,07,02/07/2011,8:00 PM,Timberwolves,West,Cavaliers,East
+265,2011,02,07,02/07/2011,8:00 PM,Jazz,West,Grizzlies,West
+266,2011,02,07,02/07/2011,8:00 PM,Pacers,East,Pelicans,West
+267,2011,02,08,02/08/2011,10:00 PM,Hornets,East,Blazers,West
+268,2011,02,08,02/08/2011,10:30 PM,Thunder,West,Lakers,West
+269,2011,02,08,02/08/2011,10:30 PM,Mavericks,West,Warriors,West
+270,2011,02,08,02/08/2011,7:00 PM,Hawks,East,Magic,East
+271,2011,02,08,02/08/2011,7:30 PM,Knicks,East,Raptors,East
+272,2011,02,08,02/08/2011,8:00 PM,Celtics,East,Wizards,East
+273,2011,02,09,02/09/2011,10:30 PM,Blazers,West,Kings,West
+274,2011,02,09,02/09/2011,7:00 PM,Pelicans,West,76ers,East
+275,2011,02,09,02/09/2011,7:00 PM,Clippers,West,Pistons,East
+276,2011,02,09,02/09/2011,7:30 PM,Pacers,East,Celtics,East
+277,2011,02,09,02/09/2011,7:30 PM,Cavaliers,East,Hawks,East
+278,2011,02,09,02/09/2011,8:00 PM,Timberwolves,West,Bulls,East
+279,2011,02,09,02/09/2011,8:00 PM,Bucks,East,Heat,East
+280,2011,02,09,02/09/2011,8:00 PM,Nuggets,West,Rockets,West
+281,2011,02,09,02/09/2011,9:00 PM,Hornets,East,Jazz,West
+282,2011,02,10,02/10/2011,6:00 PM,Pelicans,West,Nets,East
+283,2011,02,10,02/10/2011,7:00 PM,Clippers,West,76ers,East
+284,2011,02,10,02/10/2011,7:00 PM,Bucks,East,Magic,East
+285,2011,02,10,02/10/2011,8:00 PM,Wizards,East,Bulls,East
+286,2011,02,10,02/10/2011,8:30 PM,Lakers,West,Mavericks,West
+287,2011,02,10,02/10/2011,8:30 PM,Spurs,West,Warriors,West
+288,2011,02,10,02/10/2011,9:00 PM,Nuggets,West,Suns,West
+289,2011,02,11,02/11/2011,1:00 PM,Raptors,East,Hornets,East
+290,2011,02,11,02/11/2011,3:30 PM,Cavaliers,East,Celtics,East
+291,2011,02,11,02/11/2011,3:30 PM,Pistons,East,Hawks,East
+292,2011,02,11,02/11/2011,5:00 PM,Knicks,East,Pacers,East
+293,2011,02,11,02/11/2011,7:00 PM,Mavericks,West,Rockets,West
+294,2011,02,11,02/11/2011,7:00 PM,Grizzlies,West,Thunder,West
+295,2011,02,11,02/11/2011,7:00 PM,Kings,West,Timberwolves,West
+296,2011,02,11,02/11/2011,9:00 PM,Jazz,West,Blazers,West
+297,2011,02,12,02/12/2011,10:30 PM,Suns,West,Warriors,West
+298,2011,02,12,02/12/2011,7:00 PM,Knicks,East,76ers,East
+299,2011,02,12,02/12/2011,7:00 PM,Pelicans,West,Pistons,East
+300,2011,02,12,02/12/2011,7:30 PM,Clippers,West,Nets,East
+301,2011,02,12,02/12/2011,8:00 PM,Magic,East,Bulls,East
+302,2011,02,12,02/12/2011,9:00 PM,Spurs,West,Jazz,West
+303,2011,02,13,02/13/2011,10:30 PM,Spurs,West,Nuggets,West
+304,2011,02,13,02/13/2011,7:00 PM,Heat,East,Raptors,East
+305,2011,02,13,02/13/2011,8:00 PM,Hawks,East,Bucks,East
+306,2011,02,13,02/13/2011,8:00 PM,Cavaliers,East,Thunder,West
+307,2011,02,13,02/13/2011,8:00 PM,Rockets,West,Timberwolves,West
+308,2011,02,13,02/13/2011,8:30 PM,Kings,West,Mavericks,West
+309,2011,02,14,02/14/2011,10:30 PM,Warriors,West,Blazers,West
+310,2011,02,14,02/14/2011,7:00 PM,Heat,East,76ers,East
+311,2011,02,14,02/14/2011,7:00 PM,Hornets,East,Magic,East
+312,2011,02,14,02/14/2011,7:00 PM,Hawks,East,Pistons,East
+313,2011,02,14,02/14/2011,7:30 PM,Wizards,East,Knicks,East
+314,2011,02,14,02/14/2011,7:30 PM,Pacers,East,Nets,East
+315,2011,02,14,02/14/2011,8:00 PM,Raptors,East,Bulls,East
+316,2011,02,14,02/14/2011,8:00 PM,Clippers,West,Celtics,East
+317,2011,02,14,02/14/2011,8:00 PM,Thunder,West,Grizzlies,West
+318,2011,02,14,02/14/2011,8:00 PM,Lakers,West,Pelicans,West
+319,2011,02,14,02/14/2011,8:00 PM,Kings,West,Rockets,West
+320,2011,02,14,02/14/2011,9:00 PM,Suns,West,Jazz,West
+321,2011,02,15,02/15/2011,8:00 PM,Nuggets,West,Bucks,East
+322,2011,02,15,02/15/2011,9:00 PM,Lakers,West,Timberwolves,West
+323,2011,02,22,02/22/2011,10:00 PM,Thunder,West,Kings,West
+324,2011,02,22,02/22/2011,10:30 PM,Clippers,West,Warriors,West
+325,2011,02,22,02/22/2011,7:00 PM,Nets,East,Hornets,East
+326,2011,02,22,02/22/2011,7:00 PM,Knicks,East,Magic,East
+327,2011,02,22,02/22/2011,8:00 PM,76ers,East,Bulls,East
+328,2011,02,22,02/22/2011,8:00 PM,Wizards,East,Cavaliers,East
+329,2011,02,23,02/23/2011,10:30 PM,Mavericks,West,Lakers,West
+330,2011,02,23,02/23/2011,7:00 PM,Hawks,East,Pacers,East
+331,2011,02,23,02/23/2011,7:00 PM,Celtics,East,Pistons,East
+332,2011,02,23,02/23/2011,7:00 PM,Hornets,East,Wizards,East
+333,2011,02,23,02/23/2011,7:30 PM,Bucks,East,Raptors,East
+334,2011,02,23,02/23/2011,8:00 PM,Cavaliers,East,Grizzlies,West
+335,2011,02,23,02/23/2011,8:00 PM,Heat,East,Pelicans,West
+336,2011,02,23,02/23/2011,8:00 PM,Timberwolves,West,Rockets,West
+337,2011,02,23,02/23/2011,9:00 PM,Blazers,West,Jazz,West
+338,2011,02,23,02/23/2011,9:00 PM,Spurs,West,Nuggets,West
+339,2011,02,23,02/23/2011,9:00 PM,Clippers,West,Suns,West
+340,2011,02,24,02/24/2011,10:00 PM,Lakers,West,Kings,West
+341,2011,02,24,02/24/2011,5:00 PM,Magic,East,76ers,East
+342,2011,02,24,02/24/2011,7:30 PM,Grizzlies,West,Heat,East
+343,2011,02,24,02/24/2011,7:30 PM,Celtics,East,Knicks,East
+344,2011,02,24,02/24/2011,8:30 PM,Thunder,West,Warriors,West
+345,2011,02,24,02/24/2011,9:00 PM,Mavericks,West,Jazz,West
+346,2011,02,24,02/24/2011,9:00 PM,Blazers,West,Suns,West
+347,2011,02,24,02/24/2011,9:00 PM,Bulls,East,Timberwolves,West
+348,2011,02,25,02/25/2011,1:00 PM,Pistons,East,Hornets,East
+349,2011,02,25,02/25/2011,3:00 PM,Pelicans,West,Bucks,East
+350,2011,02,25,02/25/2011,3:30 PM,Spurs,West,Cavaliers,East
+351,2011,02,25,02/25/2011,8:00 PM,Rockets,West,Nuggets,West
+352,2011,02,25,02/25/2011,8:00 PM,76ers,East,Wizards,East
+353,2011,02,26,02/26/2011,10:00 PM,Timberwolves,West,Kings,West
+354,2011,02,26,02/26/2011,7:30 PM,Grizzlies,West,Celtics,East
+355,2011,02,26,02/26/2011,7:30 PM,Lakers,West,Hawks,East
+356,2011,02,26,02/26/2011,7:30 PM,Warriors,West,Knicks,East
+357,2011,02,26,02/26/2011,7:30 PM,Bulls,East,Nets,East
+358,2011,02,26,02/26/2011,7:30 PM,Pistons,East,Raptors,East
+359,2011,02,26,02/26/2011,8:00 PM,Suns,West,Pelicans,West
+360,2011,02,26,02/26/2011,8:00 PM,Magic,East,Thunder,West
+361,2011,02,26,02/26/2011,8:30 PM,Pacers,East,Mavericks,West
+362,2011,02,26,02/26/2011,9:00 PM,Rockets,West,Jazz,West
+363,2011,02,27,02/27/2011,10:00 PM,Kings,West,Blazers,West
+364,2011,02,27,02/27/2011,10:30 PM,Clippers,West,Nuggets,West
+365,2011,02,27,02/27/2011,7:00 PM,Nets,East,Cavaliers,East
+366,2011,02,27,02/27/2011,7:00 PM,Bulls,East,Hornets,East
+367,2011,02,27,02/27/2011,7:30 PM,76ers,East,Heat,East
+368,2011,02,27,02/27/2011,8:00 PM,Wizards,East,Bucks,East
+369,2011,02,28,02/28/2011,10:30 PM,Rockets,West,Clippers,West
+370,2011,02,28,02/28/2011,7:00 PM,Raptors,East,Magic,East
+371,2011,02,28,02/28/2011,7:00 PM,Bucks,East,Pistons,East
+372,2011,02,28,02/28/2011,7:30 PM,Hornets,East,Celtics,East
+373,2011,02,28,02/28/2011,7:30 PM,Pacers,East,Hawks,East
+374,2011,02,28,02/28/2011,8:00 PM,Suns,West,Grizzlies,West
+375,2011,02,28,02/28/2011,8:00 PM,Warriors,West,Wizards,East
+376,2011,02,28,02/28/2011,8:30 PM,Thunder,West,Mavericks,West
+377,2011,02,28,02/28/2011,8:30 PM,Pelicans,West,Spurs,West
+378,2011,03,01,03/01/2011,10:00 PM,Nets,East,Kings,West
+379,2011,03,01,03/01/2011,10:30 PM,Timberwolves,West,Blazers,West
+380,2011,03,01,03/01/2011,7:30 PM,Lakers,West,Heat,East
+381,2011,03,01,03/01/2011,8:00 PM,76ers,East,Cavaliers,East
+382,2011,03,02,03/02/2011,10:30 PM,Knicks,East,Clippers,West
+383,2011,03,02,03/02/2011,10:30 PM,Timberwolves,West,Jazz,West
+384,2011,03,02,03/02/2011,7:00 PM,Hornets,East,76ers,East
+385,2011,03,02,03/02/2011,7:00 PM,Pistons,East,Magic,East
+386,2011,03,02,03/02/2011,7:30 PM,Warriors,West,Hawks,East
+387,2011,03,02,03/02/2011,8:00 PM,Pacers,East,Bucks,East
+388,2011,03,02,03/02/2011,8:00 PM,Mavericks,West,Bulls,East
+389,2011,03,02,03/02/2011,8:00 PM,Nuggets,West,Grizzlies,West
+390,2011,03,02,03/02/2011,8:00 PM,Raptors,East,Wizards,East
+391,2011,03,02,03/02/2011,9:00 PM,Thunder,West,Suns,West
+392,2011,03,03,03/03/2011,10:00 PM,Thunder,West,Blazers,West
+393,2011,03,03,03/03/2011,10:00 PM,Jazz,West,Kings,West
+394,2011,03,03,03/03/2011,7:00 PM,Grizzlies,West,Magic,East
+395,2011,03,03,03/03/2011,7:30 PM,Nuggets,West,Cavaliers,East
+396,2011,03,03,03/03/2011,7:30 PM,Pistons,East,Heat,East
+397,2011,03,03,03/03/2011,8:30 PM,Celtics,East,Rockets,West
+398,2011,03,03,03/03/2011,9:00 PM,Lakers,West,Spurs,West
+399,2011,03,04,03/04/2011,3:30 PM,Suns,West,Hawks,East
+400,2011,03,04,03/04/2011,6:00 PM,Hornets,East,Raptors,East
+401,2011,03,04,03/04/2011,6:00 PM,Pacers,East,Wizards,East
+402,2011,03,04,03/04/2011,7:00 PM,Pelicans,West,Mavericks,West
+403,2011,03,04,03/04/2011,8:00 PM,76ers,East,Bucks,East
+404,2011,03,04,03/04/2011,9:00 PM,Nets,East,Clippers,West
+405,2011,03,04,03/04/2011,9:00 PM,Knicks,East,Kings,West
+406,2011,03,05,03/05/2011,10:30 PM,Blazers,West,Lakers,West
+407,2011,03,05,03/05/2011,7:00 PM,Pistons,East,Cavaliers,East
+408,2011,03,05,03/05/2011,7:00 PM,Bucks,East,Pacers,East
+409,2011,03,05,03/05/2011,7:30 PM,Suns,West,Heat,East
+410,2011,03,05,03/05/2011,8:00 PM,Celtics,East,Bulls,East
+411,2011,03,05,03/05/2011,8:30 PM,Grizzlies,West,Spurs,West
+412,2011,03,05,03/05/2011,9:00 PM,Magic,East,Jazz,West
+413,2011,03,06,03/06/2011,10:00 PM,Knicks,East,Blazers,West
+414,2011,03,06,03/06/2011,10:30 PM,Pelicans,West,Clippers,West
+415,2011,03,06,03/06/2011,10:30 PM,Nets,East,Warriors,West
+416,2011,03,06,03/06/2011,7:00 PM,76ers,East,Hornets,East
+417,2011,03,06,03/06/2011,7:00 PM,Hawks,East,Raptors,East
+418,2011,03,06,03/06/2011,7:00 PM,Heat,East,Wizards,East
+419,2011,03,06,03/06/2011,8:00 PM,Rockets,West,Thunder,West
+420,2011,03,06,03/06/2011,8:30 PM,Nuggets,West,Mavericks,West
+421,2011,03,07,03/07/2011,10:00 PM,Pelicans,West,Kings,West
+422,2011,03,07,03/07/2011,10:30 PM,Magic,East,Lakers,West
+423,2011,03,07,03/07/2011,10:30 PM,Cavaliers,East,Nuggets,West
+424,2011,03,07,03/07/2011,7:00 PM,Jazz,West,Pacers,East
+425,2011,03,07,03/07/2011,8:00 PM,Rockets,West,Bucks,East
+426,2011,03,07,03/07/2011,8:00 PM,Grizzlies,West,Bulls,East
+427,2011,03,07,03/07/2011,8:00 PM,Raptors,East,Pistons,East
+428,2011,03,08,03/08/2011,10:30 PM,Spurs,West,Warriors,West
+429,2011,03,08,03/08/2011,7:00 PM,Nets,East,Hornets,East
+430,2011,03,08,03/08/2011,7:30 PM,76ers,East,Heat,East
+431,2011,03,08,03/08/2011,8:00 PM,Suns,West,Thunder,West
+432,2011,03,08,03/08/2011,8:00 PM,Celtics,East,Timberwolves,West
+433,2011,03,09,03/09/2011,10:00 PM,Warriors,West,Blazers,West
+434,2011,03,09,03/09/2011,10:00 PM,Magic,East,Kings,West
+435,2011,03,09,03/09/2011,10:30 PM,Cavaliers,East,Clippers,West
+436,2011,03,09,03/09/2011,7:00 PM,Hawks,East,Pacers,East
+437,2011,03,09,03/09/2011,7:00 PM,Bulls,East,Pistons,East
+438,2011,03,09,03/09/2011,7:30 PM,Rockets,West,Raptors,East
+439,2011,03,09,03/09/2011,8:00 PM,Knicks,East,Bucks,East
+440,2011,03,09,03/09/2011,8:00 PM,Jazz,West,Grizzlies,West
+441,2011,03,09,03/09/2011,8:00 PM,Wizards,East,Pelicans,West
+442,2011,03,09,03/09/2011,9:00 PM,Lakers,West,Nuggets,West
+443,2011,03,10,03/10/2011,10:30 PM,Magic,East,Clippers,West
+444,2011,03,10,03/10/2011,5:00 PM,Suns,West,Hornets,East
+445,2011,03,10,03/10/2011,7:30 PM,Wizards,East,Heat,East
+446,2011,03,10,03/10/2011,8:30 PM,Grizzlies,West,Mavericks,West
+447,2011,03,10,03/10/2011,8:30 PM,Spurs,West,Thunder,West
+448,2011,03,11,03/11/2011,1:00 PM,Raptors,East,Knicks,East
+449,2011,03,11,03/11/2011,3:30 PM,Bulls,East,Hawks,East
+450,2011,03,11,03/11/2011,3:30 PM,Warriors,West,Timberwolves,West
+451,2011,03,11,03/11/2011,4:00 PM,Jazz,West,Pelicans,West
+452,2011,03,11,03/11/2011,5:00 PM,Kings,West,Nuggets,West
+453,2011,03,11,03/11/2011,7:00 PM,Rockets,West,Mavericks,West
+454,2011,03,11,03/11/2011,7:30 PM,Pacers,East,Celtics,East
+455,2011,03,11,03/11/2011,7:30 PM,76ers,East,Nets,East
+456,2011,03,11,03/11/2011,9:00 PM,Cavaliers,East,Lakers,West
+457,2011,03,12,03/12/2011,10:30 PM,Heat,East,Blazers,West
+458,2011,03,12,03/12/2011,8:00 PM,Bucks,East,Grizzlies,West
+459,2011,03,12,03/12/2011,8:00 PM,Spurs,West,Rockets,West
+460,2011,03,12,03/12/2011,8:00 PM,Kings,West,Thunder,West
+461,2011,03,13,03/13/2011,10:00 PM,Cavaliers,East,Suns,West
+462,2011,03,13,03/13/2011,10:30 PM,Nuggets,West,Lakers,West
+463,2011,03,13,03/13/2011,7:00 PM,Pacers,East,76ers,East
+464,2011,03,13,03/13/2011,7:00 PM,Timberwolves,West,Wizards,East
+465,2011,03,13,03/13/2011,7:30 PM,Thunder,West,Hawks,East
+466,2011,03,13,03/13/2011,7:30 PM,Mavericks,West,Knicks,East
+467,2011,03,13,03/13/2011,7:30 PM,Raptors,East,Nets,East
+468,2011,03,13,03/13/2011,8:00 PM,Clippers,West,Bulls,East
+469,2011,03,13,03/13/2011,8:00 PM,Hornets,East,Pelicans,West
+470,2011,03,13,03/13/2011,8:30 PM,Magic,East,Spurs,West
+471,2011,03,13,03/13/2011,9:00 PM,Pistons,East,Jazz,West
+472,2011,03,14,03/14/2011,10:00 PM,Heat,East,Kings,West
+473,2011,03,14,03/14/2011,10:30 PM,Lakers,West,Warriors,West
+474,2011,03,14,03/14/2011,7:00 PM,Bucks,East,Magic,East
+475,2011,03,14,03/14/2011,8:00 PM,Wizards,East,Celtics,East
+476,2011,03,15,03/15/2011,10:00 PM,Cavaliers,East,Blazers,West
+477,2011,03,15,03/15/2011,7:00 PM,Raptors,East,Pacers,East
+478,2011,03,15,03/15/2011,7:30 PM,Hornets,East,Hawks,East
+479,2011,03,15,03/15/2011,7:30 PM,76ers,East,Knicks,East
+480,2011,03,15,03/15/2011,8:00 PM,Bulls,East,Grizzlies,West
+481,2011,03,15,03/15/2011,8:00 PM,Clippers,West,Rockets,West
+482,2011,03,15,03/15/2011,8:30 PM,Pelicans,West,Spurs,West
+483,2011,03,15,03/15/2011,9:00 PM,Suns,West,Jazz,West
+484,2011,03,15,03/15/2011,9:00 PM,Pistons,East,Nuggets,West
+485,2011,03,16,03/16/2011,10:30 PM,Heat,East,Lakers,West
+486,2011,03,16,03/16/2011,10:30 PM,Kings,West,Warriors,West
+487,2011,03,16,03/16/2011,7:00 PM,Nets,East,76ers,East
+488,2011,03,16,03/16/2011,7:00 PM,Celtics,East,Magic,East
+489,2011,03,16,03/16/2011,7:30 PM,Mavericks,West,Raptors,East
+490,2011,03,16,03/16/2011,8:00 PM,Clippers,West,Thunder,West
+491,2011,03,17,03/17/2011,10:00 PM,Pistons,East,Blazers,West
+492,2011,03,17,03/17/2011,10:00 PM,Warriors,West,Suns,West
+493,2011,03,17,03/17/2011,6:00 PM,Hawks,East,Bucks,East
+494,2011,03,17,03/17/2011,7:00 PM,Rockets,West,Pelicans,West
+495,2011,03,17,03/17/2011,7:00 PM,Pacers,East,Wizards,East
+496,2011,03,17,03/17/2011,7:30 PM,Hornets,East,Knicks,East
+497,2011,03,17,03/17/2011,7:30 PM,Mavericks,West,Nets,East
+498,2011,03,17,03/17/2011,8:00 PM,Cavaliers,East,Bulls,East
+499,2011,03,17,03/17/2011,8:00 PM,Nuggets,West,Grizzlies,West
+500,2011,03,17,03/17/2011,8:30 PM,Timberwolves,West,Spurs,West
+501,2011,03,17,03/17/2011,9:00 PM,Kings,West,Jazz,West
+502,2011,03,18,03/18/2011,10:30 PM,Blazers,West,Clippers,West
+503,2011,03,18,03/18/2011,1:00 PM,Thunder,West,Raptors,East
+504,2011,03,18,03/18/2011,6:00 PM,Celtics,East,Pelicans,West
+505,2011,03,18,03/18/2011,7:00 PM,Rockets,West,Timberwolves,West
+506,2011,03,19,03/19/2011,10:00 PM,Pistons,East,Kings,West
+507,2011,03,19,03/19/2011,7:00 PM,Hornets,East,76ers,East
+508,2011,03,19,03/19/2011,7:00 PM,Bucks,East,Cavaliers,East
+509,2011,03,19,03/19/2011,7:00 PM,Lakers,West,Pacers,East
+510,2011,03,19,03/19/2011,7:30 PM,Nuggets,West,Heat,East
+511,2011,03,19,03/19/2011,7:30 PM,Bulls,East,Knicks,East
+512,2011,03,19,03/19/2011,7:30 PM,Grizzlies,West,Nets,East
+513,2011,03,19,03/19/2011,9:30 PM,Warriors,West,Spurs,West
+514,2011,03,20,03/20/2011,10:00 PM,Pistons,East,Suns,West
+515,2011,03,20,03/20/2011,10:30 PM,Rockets,West,Blazers,West
+516,2011,03,20,03/20/2011,7:00 PM,Raptors,East,Magic,East
+517,2011,03,20,03/20/2011,8:00 PM,Thunder,West,Celtics,East
+518,2011,03,20,03/20/2011,8:00 PM,Mavericks,West,Pelicans,West
+519,2011,03,20,03/20/2011,8:00 PM,Clippers,West,Timberwolves,West
+520,2011,03,20,03/20/2011,9:00 PM,Hawks,East,Jazz,West
+521,2011,03,21,03/21/2011,7:00 PM,Grizzlies,West,76ers,East
+522,2011,03,21,03/21/2011,7:00 PM,Raptors,East,Cavaliers,East
+523,2011,03,21,03/21/2011,7:30 PM,Knicks,East,Heat,East
+524,2011,03,21,03/21/2011,7:30 PM,Hornets,East,Nets,East
+525,2011,03,21,03/21/2011,8:00 PM,Clippers,West,Bucks,East
+526,2011,03,21,03/21/2011,8:00 PM,Nuggets,West,Bulls,East
+527,2011,03,21,03/21/2011,9:30 PM,Wizards,East,Spurs,West
+528,2011,03,22,03/22/2011,10:00 PM,Hawks,East,Kings,West
+529,2011,03,22,03/22/2011,7:00 PM,Grizzlies,West,Hornets,East
+530,2011,03,22,03/22/2011,7:00 PM,76ers,East,Magic,East
+531,2011,03,22,03/22/2011,8:00 PM,Lakers,West,Pelicans,West
+532,2011,03,22,03/22/2011,8:00 PM,Pistons,East,Rockets,West
+533,2011,03,22,03/22/2011,8:30 PM,Jazz,West,Mavericks,West
+534,2011,03,23,03/23/2011,10:00 PM,Celtics,East,Blazers,West
+535,2011,03,23,03/23/2011,10:30 PM,Hawks,East,Warriors,West
+536,2011,03,23,03/23/2011,7:00 PM,Clippers,West,Pacers,East
+537,2011,03,23,03/23/2011,7:00 PM,Nuggets,West,Wizards,East
+538,2011,03,23,03/23/2011,7:30 PM,Suns,West,Cavaliers,East
+539,2011,03,23,03/23/2011,7:30 PM,Timberwolves,West,Knicks,East
+540,2011,03,23,03/23/2011,7:30 PM,Nets,East,Raptors,East
+541,2011,03,23,03/23/2011,8:00 PM,Bucks,East,Bulls,East
+542,2011,03,23,03/23/2011,8:00 PM,Heat,East,Thunder,West
+543,2011,03,23,03/23/2011,8:30 PM,Jazz,West,Spurs,West
+544,2011,03,24,03/24/2011,6:00 PM,Timberwolves,West,76ers,East
+545,2011,03,24,03/24/2011,7:00 PM,Suns,West,Magic,East
+546,2011,03,24,03/24/2011,7:00 PM,Bulls,East,Pistons,East
+547,2011,03,24,03/24/2011,8:00 PM,Lakers,West,Grizzlies,West
+548,2011,03,24,03/24/2011,8:00 PM,Pelicans,West,Rockets,West
+549,2011,03,24,03/24/2011,8:30 PM,Hornets,East,Mavericks,West
+550,2011,03,25,03/25/2011,1:00 PM,Cavaliers,East,Nets,East
+551,2011,03,25,03/25/2011,3:30 PM,Spurs,West,Bucks,East
+552,2011,03,25,03/25/2011,5:00 PM,Heat,East,Pacers,East
+553,2011,03,25,03/25/2011,6:00 PM,Celtics,East,Kings,West
+554,2011,03,25,03/25/2011,6:00 PM,Clippers,West,Raptors,East
+555,2011,03,25,03/25/2011,6:00 PM,Knicks,East,Wizards,East
+556,2011,03,25,03/25/2011,7:00 PM,Blazers,West,Thunder,West
+557,2011,03,25,03/25/2011,8:00 PM,Hawks,East,Rockets,West
+558,2011,03,25,03/25/2011,8:30 PM,Jazz,West,Warriors,West
+559,2011,03,26,03/26/2011,10:00 PM,Celtics,East,Suns,West
+560,2011,03,26,03/26/2011,7:00 PM,Nuggets,West,76ers,East
+561,2011,03,26,03/26/2011,7:00 PM,Knicks,East,Hornets,East
+562,2011,03,26,03/26/2011,7:00 PM,Lakers,West,Pistons,East
+563,2011,03,26,03/26/2011,8:00 PM,Grizzlies,West,Timberwolves,West
+564,2011,03,27,03/27/2011,10:00 PM,Mavericks,West,Kings,West
+565,2011,03,27,03/27/2011,10:30 PM,Bucks,East,Clippers,West
+566,2011,03,27,03/27/2011,10:30 PM,Pacers,East,Warriors,West
+567,2011,03,27,03/27/2011,7:00 PM,Spurs,West,Wizards,East
+568,2011,03,27,03/27/2011,7:30 PM,Nuggets,West,Raptors,East
+569,2011,03,27,03/27/2011,8:00 PM,Cavaliers,East,Heat,East
+570,2011,03,27,03/27/2011,8:00 PM,Blazers,West,Pelicans,West
+571,2011,03,27,03/27/2011,8:00 PM,Bulls,East,Rockets,West
+572,2011,03,28,03/28/2011,10:00 PM,Clippers,West,Suns,West
+573,2011,03,28,03/28/2011,10:30 PM,Mavericks,West,Lakers,West
+574,2011,03,28,03/28/2011,7:00 PM,Knicks,East,76ers,East
+575,2011,03,28,03/28/2011,7:00 PM,Cavaliers,East,Hornets,East
+576,2011,03,28,03/28/2011,7:00 PM,Nets,East,Magic,East
+577,2011,03,28,03/28/2011,8:00 PM,Blazers,West,Grizzlies,West
+578,2011,03,28,03/28/2011,8:00 PM,Hawks,East,Timberwolves,West
+579,2011,03,28,03/28/2011,9:30 PM,Celtics,East,Jazz,West
+580,2011,03,29,03/29/2011,10:00 PM,Pacers,East,Kings,West
+581,2011,03,29,03/29/2011,10:30 PM,Bucks,East,Warriors,West
+582,2011,03,29,03/29/2011,7:00 PM,Wizards,East,Pistons,East
+583,2011,03,29,03/29/2011,7:30 PM,Bulls,East,Heat,East
+584,2011,03,29,03/29/2011,8:00 PM,Thunder,West,Spurs,West
+585,2011,03,30,03/30/2011,10:30 PM,Clippers,West,Blazers,West
+586,2011,03,30,03/30/2011,10:30 PM,Bucks,East,Lakers,West
+587,2011,03,30,03/30/2011,7:00 PM,Bulls,East,Magic,East
+588,2011,03,30,03/30/2011,7:30 PM,76ers,East,Hawks,East
+589,2011,03,30,03/30/2011,8:00 PM,Pelicans,West,Cavaliers,East
+590,2011,03,30,03/30/2011,8:00 PM,Suns,West,Rockets,West
+591,2011,03,30,03/30/2011,8:00 PM,Nuggets,West,Thunder,West
+592,2011,03,30,03/30/2011,8:30 PM,Timberwolves,West,Mavericks,West
+593,2011,03,30,03/30/2011,9:00 PM,Grizzlies,West,Jazz,West
+594,2011,03,31,03/31/2011,10:00 PM,Warriors,West,Kings,West
+595,2011,03,31,03/31/2011,3:00 PM,Hornets,East,Wizards,East
+596,2011,03,31,03/31/2011,5:00 PM,Pistons,East,Knicks,East
+597,2011,03,31,03/31/2011,7:30 PM,Raptors,East,Celtics,East
+598,2011,03,31,03/31/2011,8:00 PM,Nets,East,Heat,East
+599,2011,04,01,04/01/2011,1:00 PM,76ers,East,Hornets,East
+600,2011,04,01,04/01/2011,3:30 PM,Wizards,East,Bulls,East
+601,2011,04,01,04/01/2011,3:30 PM,Pacers,East,Clippers,West
+602,2011,04,01,04/01/2011,3:30 PM,Rockets,West,Spurs,West
+603,2011,04,01,04/01/2011,6:00 PM,Mavericks,West,Cavaliers,East
+604,2011,04,01,04/01/2011,6:00 PM,Magic,East,Hawks,East
+605,2011,04,01,04/01/2011,6:00 PM,Pistons,East,Nets,East
+606,2011,04,01,04/01/2011,6:00 PM,Thunder,West,Pelicans,West
+607,2011,04,01,04/01/2011,7:00 PM,Jazz,West,Timberwolves,West
+608,2011,04,01,04/01/2011,8:00 PM,Bucks,East,Nuggets,West
+609,2011,04,01,04/01/2011,8:30 PM,Suns,West,Warriors,West
+610,2011,04,01,04/01/2011,9:00 PM,Grizzlies,West,Blazers,West
+611,2011,04,01,04/01/2011,9:30 PM,Kings,West,Lakers,West
+612,2011,04,03,04/03/2011,10:00 PM,Kings,West,Suns,West
+613,2011,04,03,04/03/2011,10:30 PM,Spurs,West,Clippers,West
+614,2011,04,03,04/03/2011,7:00 PM,Nets,East,76ers,East
+615,2011,04,03,04/03/2011,7:00 PM,Raptors,East,Cavaliers,East
+616,2011,04,03,04/03/2011,7:30 PM,Hawks,East,Heat,East
+617,2011,04,03,04/03/2011,7:30 PM,Magic,East,Knicks,East
+618,2011,04,03,04/03/2011,8:00 PM,Celtics,East,Bucks,East
+619,2011,04,03,04/03/2011,8:00 PM,Hornets,East,Bulls,East
+620,2011,04,03,04/03/2011,8:00 PM,Wizards,East,Rockets,West
+621,2011,04,03,04/03/2011,8:00 PM,Warriors,West,Thunder,West
+622,2011,04,03,04/03/2011,8:30 PM,Blazers,West,Mavericks,West
+623,2011,04,03,04/03/2011,9:00 PM,Lakers,West,Jazz,West
+624,2011,04,03,04/03/2011,9:00 PM,Pacers,East,Nuggets,West
+625,2011,04,04,04/04/2011,10:30 PM,Spurs,West,Lakers,West
+626,2011,04,04,04/04/2011,7:00 PM,Mavericks,West,Magic,East
+627,2011,04,04,04/04/2011,7:00 PM,76ers,East,Pistons,East
+628,2011,04,04,04/04/2011,7:00 PM,Celtics,East,Raptors,East
+629,2011,04,04,04/04/2011,7:30 PM,Heat,East,Hawks,East
+630,2011,04,04,04/04/2011,9:30 PM,Grizzlies,West,Pelicans,West
+631,2011,04,05,04/05/2011,10:30 PM,Timberwolves,West,Nuggets,West
+632,2011,04,05,04/05/2011,7:00 PM,Warriors,West,Pacers,East
+633,2011,04,05,04/05/2011,8:00 PM,Nets,East,Bucks,East
+634,2011,04,05,04/05/2011,8:00 PM,Wizards,East,Cavaliers,East
+635,2011,04,05,04/05/2011,8:00 PM,Blazers,West,Rockets,West
+636,2011,04,05,04/05/2011,9:00 PM,Clippers,West,Jazz,West
+637,2011,04,06,04/06/2011,10:00 PM,Pelicans,West,Suns,West
+638,2011,04,06,04/06/2011,10:30 PM,Timberwolves,West,Lakers,West
+639,2011,04,06,04/06/2011,7:00 PM,Cavaliers,East,76ers,East
+640,2011,04,06,04/06/2011,7:00 PM,Hornets,East,Magic,East
+641,2011,04,06,04/06/2011,7:00 PM,Mavericks,West,Pistons,East
+642,2011,04,06,04/06/2011,7:00 PM,Hawks,East,Wizards,East
+643,2011,04,06,04/06/2011,7:30 PM,Bulls,East,Celtics,East
+644,2011,04,06,04/06/2011,7:30 PM,Heat,East,Knicks,East
+645,2011,04,06,04/06/2011,7:30 PM,Pacers,East,Raptors,East
+646,2011,04,06,04/06/2011,8:00 PM,Kings,West,Grizzlies,West
+647,2011,04,07,04/07/2011,3:30 PM,Nuggets,West,Clippers,West
+648,2011,04,07,04/07/2011,7:30 PM,Bucks,East,Knicks,East
+649,2011,04,07,04/07/2011,8:00 PM,Nets,East,Bulls,East
+650,2011,04,07,04/07/2011,8:30 PM,Thunder,West,Rockets,West
+651,2011,04,07,04/07/2011,8:30 PM,Pelicans,West,Warriors,West
+652,2011,04,07,04/07/2011,9:00 PM,Blazers,West,Spurs,West
+653,2011,04,08,04/08/2011,1:00 PM,Mavericks,West,76ers,East
+654,2011,04,08,04/08/2011,1:00 PM,Pacers,East,Hornets,East
+655,2011,04,08,04/08/2011,3:30 PM,Pistons,East,Grizzlies,West
+656,2011,04,08,04/08/2011,6:00 PM,Jazz,West,Lakers,West
+657,2011,04,08,04/08/2011,6:00 PM,Magic,East,Raptors,East
+658,2011,04,08,04/08/2011,7:30 PM,Hawks,East,Celtics,East
+659,2011,04,08,04/08/2011,9:00 PM,Warriors,West,Suns,West
+660,2011,04,09,04/09/2011,10:30 PM,Pelicans,West,Clippers,West
+661,2011,04,09,04/09/2011,7:00 PM,Raptors,East,Pistons,East
+662,2011,04,09,04/09/2011,7:30 PM,Thunder,West,Heat,East
+663,2011,04,09,04/09/2011,7:30 PM,Cavaliers,East,Knicks,East
+664,2011,04,09,04/09/2011,7:30 PM,Bulls,East,Nets,East
+665,2011,04,09,04/09/2011,8:00 PM,Magic,East,Bucks,East
+666,2011,04,09,04/09/2011,8:00 PM,Grizzlies,West,Timberwolves,West
+667,2011,04,09,04/09/2011,8:30 PM,Kings,West,Spurs,West
+668,2011,04,09,04/09/2011,9:00 PM,Blazers,West,Nuggets,West
+669,2011,04,10,04/10/2011,10:30 PM,Rockets,West,Lakers,West
+670,2011,04,10,04/10/2011,7:00 PM,Hornets,East,Pacers,East
+671,2011,04,10,04/10/2011,7:30 PM,76ers,East,Hawks,East
+672,2011,04,10,04/10/2011,8:00 PM,Celtics,East,Wizards,East
+673,2011,04,10,04/10/2011,8:30 PM,Suns,West,Mavericks,West
+674,2011,04,10,04/10/2011,9:00 PM,Warriors,West,Jazz,West
+675,2011,04,11,04/11/2011,10:30 PM,Jazz,West,Blazers,West
+676,2011,04,11,04/11/2011,10:30 PM,Lakers,West,Clippers,West
+677,2011,04,11,04/11/2011,10:30 PM,Rockets,West,Kings,West
+678,2011,04,11,04/11/2011,8:00 PM,Bucks,East,76ers,East
+679,2011,04,11,04/11/2011,8:00 PM,Pistons,East,Bulls,East
+680,2011,04,11,04/11/2011,8:00 PM,Knicks,East,Cavaliers,East
+681,2011,04,11,04/11/2011,8:00 PM,Nets,East,Celtics,East
+682,2011,04,11,04/11/2011,8:00 PM,Raptors,East,Heat,East
+683,2011,04,11,04/11/2011,8:00 PM,Wizards,East,Magic,East
+684,2011,04,11,04/11/2011,8:00 PM,Spurs,West,Pelicans,West
+685,2011,04,11,04/11/2011,8:00 PM,Grizzlies,West,Thunder,West
+686,2011,04,11,04/11/2011,8:00 PM,Nuggets,West,Timberwolves,West
+687,2011,10,17,10/17/2011,L102-99,Celtics,East,Cavaliers,East
+688,2011,10,17,10/17/2011,L122-121,Rockets,West,Warriors,West
+689,2011,10,17,10/17/2011,W102-99,Celtics,East,Cavaliers,East
+690,2011,10,17,10/17/2011,W122-121,Rockets,West,Warriors,West
+691,2011,10,18,10/18/2011,L102-90,Hornets,East,Pistons,East
+692,2011,10,18,10/18/2011,L103-91,Pelicans,West,Grizzlies,West
+693,2011,10,18,10/18/2011,L105-100,Rockets,West,Kings,West
+694,2011,10,18,10/18/2011,L106-96,Nuggets,West,Jazz,West
+695,2011,10,18,10/18/2011,L107-99,Timberwolves,West,Spurs,West
+696,2011,10,18,10/18/2011,L108-100,Bucks,East,Celtics,East
+697,2011,10,18,10/18/2011,L116-109,Heat,East,Magic,East
+698,2011,10,18,10/18/2011,L117-111,Hawks,East,Mavericks,West
+699,2011,10,18,10/18/2011,L120-115,76ers,East,Wizards,East
+700,2011,10,18,10/18/2011,L124-76,Blazers,West,Suns,West
+701,2011,10,18,10/18/2011,L140-131,Nets,East,Pacers,East
+702,2011,10,18,10/18/2011,W102-90,Hornets,East,Pistons,East
+703,2011,10,18,10/18/2011,W103-91,Pelicans,West,Grizzlies,West
+704,2011,10,18,10/18/2011,W105-100,Rockets,West,Kings,West
+705,2011,10,18,10/18/2011,W106-96,Nuggets,West,Jazz,West
+706,2011,10,18,10/18/2011,W107-99,Timberwolves,West,Spurs,West
+707,2011,10,18,10/18/2011,W108-100,Bucks,East,Celtics,East
+708,2011,10,18,10/18/2011,W116-109,Heat,East,Magic,East
+709,2011,10,18,10/18/2011,W117-111,Hawks,East,Mavericks,West
+710,2011,10,18,10/18/2011,W120-115,76ers,East,Wizards,East
+711,2011,10,18,10/18/2011,W124-76,Blazers,West,Suns,West
+712,2011,10,18,10/18/2011,W140-131,Nets,East,Pacers,East
+713,2011,10,19,10/19/2011,L105-84,Knicks,East,Thunder,West
+714,2011,10,19,10/19/2011,L108-92,Clippers,West,Lakers,West
+715,2011,10,19,10/19/2011,L117-100,Bulls,East,Raptors,East
+716,2011,10,19,10/19/2011,W105-84,Knicks,East,Thunder,West
+717,2011,10,19,10/19/2011,W108-92,Clippers,West,Lakers,West
+718,2011,10,19,10/19/2011,W117-100,Bulls,East,Raptors,East
+719,2011,10,20,10/20/2011,L100-97,Jazz,West,Timberwolves,West
+720,2011,10,20,10/20/2011,L102-92,Celtics,East,76ers,East
+721,2011,10,20,10/20/2011,L109-91,Hawks,East,Hornets,East
+722,2011,10,20,10/20/2011,L114-96,Blazers,West,Pacers,East
+723,2011,10,20,10/20/2011,L115-111,Pistons,East,Wizards,East
+724,2011,10,20,10/20/2011,L116-97,Cavaliers,East,Bucks,East
+725,2011,10,20,10/20/2011,L126-121,Magic,East,Nets,East
+726,2011,10,20,10/20/2011,L128-120,Warriors,West,Pelicans,West
+727,2011,10,20,10/20/2011,L132-130,Lakers,West,Suns,West
+728,2011,10,20,10/20/2011,L93-88,Kings,West,Mavericks,West
+729,2011,10,20,10/20/2011,W100-97,Jazz,West,Timberwolves,West
+730,2011,10,20,10/20/2011,W102-92,Celtics,East,76ers,East
+731,2011,10,20,10/20/2011,W109-91,Hawks,East,Hornets,East
+732,2011,10,20,10/20/2011,W114-96,Blazers,West,Pacers,East
+733,2011,10,20,10/20/2011,W115-111,Pistons,East,Wizards,East
+734,2011,10,20,10/20/2011,W116-97,Cavaliers,East,Bucks,East
+735,2011,10,20,10/20/2011,W126-121,Magic,East,Nets,East
+736,2011,10,20,10/20/2011,W128-120,Warriors,West,Pelicans,West
+737,2011,10,20,10/20/2011,W132-130,Lakers,West,Suns,West
+738,2011,10,20,10/20/2011,W93-88,Kings,West,Mavericks,West
+739,2011,10,21,10/21/2011,L107-91,Mavericks,West,Rockets,West
+740,2011,10,21,10/21/2011,L111-101,Warriors,West,Grizzlies,West
+741,2011,10,21,10/21/2011,L111-107,Pistons,East,Knicks,East
+742,2011,10,21,10/21/2011,L112-108,Pacers,East,Heat,East
+743,2011,10,21,10/21/2011,L113-110,Blazers,West,Bucks,East
+744,2011,10,21,10/21/2011,L114-93,Magic,East,Cavaliers,East
+745,2011,10,21,10/21/2011,L128-94,76ers,East,Raptors,East
+746,2011,10,21,10/21/2011,L130-88,Suns,West,Clippers,West
+747,2011,10,21,10/21/2011,L87-77,Spurs,West,Bulls,East
+748,2011,10,21,10/21/2011,L96-79,Kings,West,Nuggets,West
+749,2011,10,21,10/21/2011,L96-87,Thunder,West,Jazz,West
+750,2011,10,21,10/21/2011,W107-91,Mavericks,West,Rockets,West
+751,2011,10,21,10/21/2011,W111-101,Warriors,West,Grizzlies,West
+752,2011,10,21,10/21/2011,W111-107,Pistons,East,Knicks,East
+753,2011,10,21,10/21/2011,W112-108,Pacers,East,Heat,East
+754,2011,10,21,10/21/2011,W113-110,Blazers,West,Bucks,East
+755,2011,10,21,10/21/2011,W114-93,Magic,East,Cavaliers,East
+756,2011,10,21,10/21/2011,W128-94,76ers,East,Raptors,East
+757,2011,10,21,10/21/2011,W130-88,Suns,West,Clippers,West
+758,2011,10,21,10/21/2011,W87-77,Spurs,West,Bulls,East
+759,2011,10,21,10/21/2011,W96-79,Kings,West,Nuggets,West
+760,2011,10,21,10/21/2011,W96-87,Thunder,West,Jazz,West
+761,2011,10,22,10/22/2011,L115-113,Timberwolves,West,Thunder,West
+762,2011,10,22,10/22/2011,L116-104,Hawks,East,Nets,East
+763,2011,10,22,10/22/2011,L119-112,Pelicans,West,Lakers,West
+764,2011,10,22,10/22/2011,W115-113,Timberwolves,West,Thunder,West
+765,2011,10,22,10/22/2011,W116-104,Hawks,East,Nets,East
+766,2011,10,22,10/22/2011,W119-112,Pelicans,West,Lakers,West
+767,2011,10,23,10/23/2011,L101-97,Raptors,East,Spurs,West
+768,2011,10,23,10/23/2011,L103-94,Hornets,East,Bucks,East
+769,2011,10,23,10/23/2011,L104-93,Hawks,East,Heat,East
+770,2011,10,23,10/23/2011,L109-104,Wizards,East,Nuggets,West
+771,2011,10,23,10/23/2011,L117-115,Kings,West,Suns,West
+772,2011,10,23,10/23/2011,L133-103,Warriors,West,Mavericks,West
+773,2011,10,23,10/23/2011,L97-86,76ers,East,Pistons,East
+774,2011,10,23,10/23/2011,L98-90,Grizzlies,West,Rockets,West
+775,2011,10,23,10/23/2011,W101-97,Raptors,East,Spurs,West
+776,2011,10,23,10/23/2011,W103-94,Hornets,East,Bucks,East
+777,2011,10,23,10/23/2011,W104-93,Hawks,East,Heat,East
+778,2011,10,23,10/23/2011,W109-104,Wizards,East,Nuggets,West
+779,2011,10,23,10/23/2011,W117-115,Kings,West,Suns,West
+780,2011,10,23,10/23/2011,W133-103,Warriors,West,Mavericks,West
+781,2011,10,23,10/23/2011,W97-86,76ers,East,Pistons,East
+782,2011,10,23,10/23/2011,W98-90,Grizzlies,West,Rockets,West
+783,2011,10,24,10/24/2011,L102-84,Jazz,West,Clippers,West
+784,2011,10,24,10/24/2011,L103-93,Pelicans,West,Blazers,West
+785,2011,10,24,10/24/2011,L110-89,Knicks,East,Celtics,East
+786,2011,10,24,10/24/2011,L119-112,Bulls,East,Cavaliers,East
+787,2011,10,24,10/24/2011,L125-121,Nets,East,Magic,East
+788,2011,10,24,10/24/2011,L130-107,Pacers,East,Timberwolves,West
+789,2011,10,24,10/24/2011,W102-84,Jazz,West,Clippers,West
+790,2011,10,24,10/24/2011,W103-93,Pelicans,West,Blazers,West
+791,2011,10,24,10/24/2011,W110-89,Knicks,East,Celtics,East
+792,2011,10,24,10/24/2011,W119-112,Bulls,East,Cavaliers,East
+793,2011,10,24,10/24/2011,W125-121,Nets,East,Magic,East
+794,2011,10,24,10/24/2011,W130-107,Pacers,East,Timberwolves,West
+795,2011,10,25,10/25/2011,L102-99 OT,Wizards,East,Lakers,West
+796,2011,10,25,10/25/2011,L103-94,Grizzlies,West,Mavericks,West
+797,2011,10,25,10/25/2011,L105-104,Rockets,West,76ers,East
+798,2011,10,25,10/25/2011,L110-93,Nuggets,West,Hornets,East
+799,2011,10,25,10/25/2011,L112-107,Cavaliers,East,Nets,East
+800,2011,10,25,10/25/2011,L114-96,Pacers,East,Thunder,West
+801,2011,10,25,10/25/2011,L117-100,Spurs,West,Heat,East
+802,2011,10,25,10/25/2011,L117-112,Raptors,East,Warriors,West
+803,2011,10,25,10/25/2011,L122-101,Timberwolves,West,Pistons,East
+804,2011,10,25,10/25/2011,L97-88,Jazz,West,Suns,West
+805,2011,10,25,10/25/2011,W102-99 OT,Wizards,East,Lakers,West
+806,2011,10,25,10/25/2011,W103-94,Grizzlies,West,Mavericks,West
+807,2011,10,25,10/25/2011,W105-104,Rockets,West,76ers,East
+808,2011,10,25,10/25/2011,W110-93,Nuggets,West,Hornets,East
+809,2011,10,25,10/25/2011,W112-107,Cavaliers,East,Nets,East
+810,2011,10,25,10/25/2011,W114-96,Pacers,East,Thunder,West
+811,2011,10,25,10/25/2011,W117-100,Spurs,West,Heat,East
+812,2011,10,25,10/25/2011,W117-112,Raptors,East,Warriors,West
+813,2011,10,25,10/25/2011,W122-101,Timberwolves,West,Pistons,East
+814,2011,10,25,10/25/2011,W97-88,Jazz,West,Suns,West
+815,2011,10,26,10/26/2011,L104-103,Clippers,West,Blazers,West
+816,2011,10,26,10/26/2011,L114-106,Pelicans,West,Kings,West
+817,2011,10,26,10/26/2011,L91-86,Hawks,East,Bulls,East
+818,2011,10,26,10/26/2011,L96-89,Celtics,East,Bucks,East
+819,2011,10,26,10/26/2011,L96-91,Mavericks,West,Grizzlies,West
+820,2011,10,26,10/26/2011,W104-103,Clippers,West,Blazers,West
+821,2011,10,26,10/26/2011,W114-106,Pelicans,West,Kings,West
+822,2011,10,26,10/26/2011,W91-86,Hawks,East,Bulls,East
+823,2011,10,26,10/26/2011,W96-89,Celtics,East,Bucks,East
+824,2011,10,26,10/26/2011,W96-91,Mavericks,West,Grizzlies,West
+825,2011,10,27,10/27/2011,L101-92,Raptors,East,Lakers,West
+826,2011,10,27,10/27/2011,L105-100,Nuggets,West,Hawks,East
+827,2011,10,27,10/27/2011,L107-86,Nets,East,Knicks,East
+828,2011,10,27,10/27/2011,L109-93,Rockets,West,Hornets,East
+829,2011,10,27,10/27/2011,L114-87,Spurs,West,Magic,East
+830,2011,10,27,10/27/2011,L119-116,Thunder,West,Timberwolves,West
+831,2011,10,27,10/27/2011,L120-117,Wizards,East,Warriors,West
+832,2011,10,27,10/27/2011,W101-92,Raptors,East,Lakers,West
+833,2011,10,27,10/27/2011,W105-100,Nuggets,West,Hawks,East
+834,2011,10,27,10/27/2011,W107-86,Nets,East,Knicks,East
+835,2011,10,27,10/27/2011,W109-93,Rockets,West,Hornets,East
+836,2011,10,27,10/27/2011,W114-87,Spurs,West,Magic,East
+837,2011,10,27,10/27/2011,W119-116,Thunder,West,Timberwolves,West
+838,2011,10,27,10/27/2011,W120-117,Wizards,East,Warriors,West
+839,2011,10,28,10/28/2011,L101-69,Thunder,West,Bulls,East
+840,2011,10,28,10/28/2011,L103-89,Rockets,West,Grizzlies,West
+841,2011,10,28,10/28/2011,L112-110,76ers,East,Mavericks,West
+842,2011,10,28,10/28/2011,L114-107,Suns,West,Blazers,West
+843,2011,10,28,10/28/2011,L123-101,Cavaliers,East,Pelicans,West
+844,2011,10,28,10/28/2011,L95-87,Pistons,East,Clippers,West
+845,2011,10,28,10/28/2011,L96-81,Lakers,West,Jazz,West
+846,2011,10,28,10/28/2011,L96-90,Celtics,East,Heat,East
+847,2011,10,28,10/28/2011,W101-69,Thunder,West,Bulls,East
+848,2011,10,28,10/28/2011,W103-89,Rockets,West,Grizzlies,West
+849,2011,10,28,10/28/2011,W112-110,76ers,East,Mavericks,West
+850,2011,10,28,10/28/2011,W114-107,Suns,West,Blazers,West
+851,2011,10,28,10/28/2011,W123-101,Cavaliers,East,Pelicans,West
+852,2011,10,28,10/28/2011,W95-87,Pistons,East,Clippers,West
+853,2011,10,28,10/28/2011,W96-81,Lakers,West,Jazz,West
+854,2011,10,28,10/28/2011,W96-90,Celtics,East,Heat,East
+855,2011,10,29,10/29/2011,L110-83,Wizards,East,Kings,West
+856,2011,10,29,10/29/2011,L114-95,Knicks,East,Cavaliers,East
+857,2011,10,29,10/29/2011,L115-107,Pistons,East,Warriors,West
+858,2011,10,29,10/29/2011,L117-106,Bucks,East,Hawks,East
+859,2011,10,29,10/29/2011,L120-113,Magic,East,Hornets,East
+860,2011,10,29,10/29/2011,L124-111,Nuggets,West,Nets,East
+861,2011,10,29,10/29/2011,L97-94,Spurs,West,Pacers,East
+862,2011,10,29,10/29/2011,W110-83,Wizards,East,Kings,West
+863,2011,10,29,10/29/2011,W114-95,Knicks,East,Cavaliers,East
+864,2011,10,29,10/29/2011,W115-107,Pistons,East,Warriors,West
+865,2011,10,29,10/29/2011,W117-106,Bucks,East,Hawks,East
+866,2011,10,29,10/29/2011,W120-113,Magic,East,Hornets,East
+867,2011,10,29,10/29/2011,W124-111,Nuggets,West,Nets,East
+868,2011,10,29,10/29/2011,W97-94,Spurs,West,Pacers,East
+869,2011,10,30,10/30/2011,L104-89,Mavericks,West,Jazz,West
+870,2011,10,30,10/30/2011,L104-99,Hornets,East,Grizzlies,West
+871,2011,10,30,10/30/2011,L108-94,Spurs,West,Celtics,East
+872,2011,10,30,10/30/2011,L115-107,76ers,East,Rockets,West
+873,2011,10,30,10/30/2011,L115-99,Magic,East,Pelicans,West
+874,2011,10,30,10/30/2011,L116-110,Nuggets,West,Knicks,East
+875,2011,10,30,10/30/2011,L125-122 OT,Timberwolves,West,Heat,East
+876,2011,10,30,10/30/2011,L141-113,Warriors,West,Clippers,West
+877,2011,10,30,10/30/2011,L99-85,Raptors,East,Blazers,West
+878,2011,10,30,10/30/2011,W104-89,Mavericks,West,Jazz,West
+879,2011,10,30,10/30/2011,W104-99,Hornets,East,Grizzlies,West
+880,2011,10,30,10/30/2011,W108-94,Spurs,West,Celtics,East
+881,2011,10,30,10/30/2011,W115-107,76ers,East,Rockets,West
+882,2011,10,30,10/30/2011,W115-99,Magic,East,Pelicans,West
+883,2011,10,30,10/30/2011,W116-110,Nuggets,West,Knicks,East
+884,2011,10,30,10/30/2011,W125-122 OT,Timberwolves,West,Heat,East
+885,2011,10,30,10/30/2011,W141-113,Warriors,West,Clippers,West
+886,2011,10,30,10/30/2011,W99-85,Raptors,East,Blazers,West
+887,2011,10,31,10/31/2011,L101-83,Kings,West,Pacers,East
+888,2011,10,31,10/31/2011,L110-91,Thunder,West,Bucks,East
+889,2011,10,31,10/31/2011,L113-93,Pistons,East,Lakers,West
+890,2011,10,31,10/31/2011,L122-114,Suns,West,Nets,East
+891,2011,10,31,10/31/2011,W101-83,Kings,West,Pacers,East
+892,2011,10,31,10/31/2011,W110-91,Thunder,West,Bucks,East
+893,2011,10,31,10/31/2011,W113-93,Pistons,East,Lakers,West
+894,2011,10,31,10/31/2011,W122-114,Suns,West,Nets,East
+895,2011,11,01,11/01/2011,L101-99,Magic,East,Grizzlies,West
+896,2011,11,01,11/01/2011,L104-98,Timberwolves,West,Pelicans,West
+897,2011,11,01,11/01/2011,L112-103 OT,Blazers,West,Jazz,West
+898,2011,11,01,11/01/2011,L113-86,Kings,West,Celtics,East
+899,2011,11,01,11/01/2011,L119-109,Hawks,East,76ers,East
+900,2011,11,01,11/01/2011,L119-97,Rockets,West,Knicks,East
+901,2011,11,01,11/01/2011,L119-98,Mavericks,West,Clippers,West
+902,2011,11,01,11/01/2011,L122-116,Suns,West,Wizards,East
+903,2011,11,01,11/01/2011,L124-107,Pacers,East,Cavaliers,East
+904,2011,11,01,11/01/2011,L126-121,Bucks,East,Hornets,East
+905,2011,11,01,11/01/2011,L129-111,Raptors,East,Nuggets,West
+906,2011,11,01,11/01/2011,L97-91,Bulls,East,Heat,East
+907,2011,11,01,11/01/2011,W101-99,Magic,East,Grizzlies,West
+908,2011,11,01,11/01/2011,W104-98,Timberwolves,West,Pelicans,West
+909,2011,11,01,11/01/2011,W112-103 OT,Blazers,West,Jazz,West
+910,2011,11,01,11/01/2011,W113-86,Kings,West,Celtics,East
+911,2011,11,01,11/01/2011,W119-109,Hawks,East,76ers,East
+912,2011,11,01,11/01/2011,W119-97,Rockets,West,Knicks,East
+913,2011,11,01,11/01/2011,W119-98,Mavericks,West,Clippers,West
+914,2011,11,01,11/01/2011,W122-116,Suns,West,Wizards,East
+915,2011,11,01,11/01/2011,W124-107,Pacers,East,Cavaliers,East
+916,2011,11,01,11/01/2011,W126-121,Bucks,East,Hornets,East
+917,2011,11,01,11/01/2011,W129-111,Raptors,East,Nuggets,West
+918,2011,11,01,11/01/2011,W97-91,Bulls,East,Heat,East
+919,2011,11,02,11/02/2011,L112-92,Warriors,West,Spurs,West
+920,2011,11,02,11/02/2011,L113-110,Lakers,West,Blazers,West
+921,2011,11,02,11/02/2011,W112-92,Warriors,West,Spurs,West
+922,2011,11,02,11/02/2011,W113-110,Lakers,West,Blazers,West
+923,2011,11,03,11/03/2011,L101-94,Celtics,East,Thunder,West
+924,2011,11,03,11/03/2011,L105-83,Bulls,East,Magic,East
+925,2011,11,03,11/03/2011,L105-96,Bucks,East,Pistons,East
+926,2011,11,03,11/03/2011,L108-101,Hornets,East,Spurs,West
+927,2011,11,03,11/03/2011,L109-100,Raptors,East,Jazz,West
+928,2011,11,03,11/03/2011,L119-104,Rockets,West,Hawks,East
+929,2011,11,03,11/03/2011,L120-107,Suns,West,Knicks,East
+930,2011,11,03,11/03/2011,L121-110,Pacers,East,76ers,East
+931,2011,11,03,11/03/2011,L124-112,Nets,East,Lakers,West
+932,2011,11,03,11/03/2011,L130-122,Cavaliers,East,Wizards,East
+933,2011,11,03,11/03/2011,L95-94,Heat,East,Nuggets,West
+934,2011,11,03,11/03/2011,L99-94,Pelicans,West,Mavericks,West
+935,2011,11,03,11/03/2011,W101-94,Celtics,East,Thunder,West
+936,2011,11,03,11/03/2011,W105-83,Bulls,East,Magic,East
+937,2011,11,03,11/03/2011,W105-96,Bucks,East,Pistons,East
+938,2011,11,03,11/03/2011,W108-101,Hornets,East,Spurs,West
+939,2011,11,03,11/03/2011,W109-100,Raptors,East,Jazz,West
+940,2011,11,03,11/03/2011,W119-104,Rockets,West,Hawks,East
+941,2011,11,03,11/03/2011,W120-107,Suns,West,Knicks,East
+942,2011,11,03,11/03/2011,W121-110,Pacers,East,76ers,East
+943,2011,11,03,11/03/2011,W124-112,Nets,East,Lakers,West
+944,2011,11,03,11/03/2011,W130-122,Cavaliers,East,Wizards,East
+945,2011,11,03,11/03/2011,W95-94,Heat,East,Nuggets,West
+946,2011,11,03,11/03/2011,W99-94,Pelicans,West,Mavericks,West
+947,2011,11,04,11/04/2011,L108-99,Kings,West,Pistons,East
+948,2011,11,04,11/04/2011,L112-99,Mavericks,West,Timberwolves,West
+949,2011,11,04,11/04/2011,L113-104,Grizzlies,West,Clippers,West
+950,2011,11,04,11/04/2011,L127-108,Warriors,West,Nuggets,West
+951,2011,11,04,11/04/2011,L96-90 OT,Pelicans,West,Bulls,East
+952,2011,11,04,11/04/2011,W108-99,Kings,West,Pistons,East
+953,2011,11,04,11/04/2011,W112-99,Mavericks,West,Timberwolves,West
+954,2011,11,04,11/04/2011,W113-104,Grizzlies,West,Clippers,West
+955,2011,11,04,11/04/2011,W127-108,Warriors,West,Nuggets,West
+956,2011,11,04,11/04/2011,W96-90 OT,Pelicans,West,Bulls,East
+957,2011,11,05,11/05/2011,L103-99,Thunder,West,Blazers,West
+958,2011,11,05,11/05/2011,L104-101,Heat,East,Clippers,West
+959,2011,11,05,11/05/2011,L104-88,Celtics,East,Magic,East
+960,2011,11,05,11/05/2011,L107-102,Grizzlies,West,Lakers,West
+961,2011,11,05,11/05/2011,L107-96,Wizards,East,Raptors,East
+962,2011,11,05,11/05/2011,L108-101,Pacers,East,Knicks,East
+963,2011,11,05,11/05/2011,L112-94,Hornets,East,Timberwolves,West
+964,2011,11,05,11/05/2011,L112-95,Suns,West,Spurs,West
+965,2011,11,05,11/05/2011,L117-115,Hawks,East,Cavaliers,East
+966,2011,11,05,11/05/2011,L137-110,Jazz,West,Rockets,West
+967,2011,11,05,11/05/2011,W103-99,Thunder,West,Blazers,West
+968,2011,11,05,11/05/2011,W104-101,Heat,East,Clippers,West
+969,2011,11,05,11/05/2011,W104-88,Celtics,East,Magic,East
+970,2011,11,05,11/05/2011,W107-102,Grizzlies,West,Lakers,West
+971,2011,11,05,11/05/2011,W107-96,Wizards,East,Raptors,East
+972,2011,11,05,11/05/2011,W108-101,Pacers,East,Knicks,East
+973,2011,11,05,11/05/2011,W112-94,Hornets,East,Timberwolves,West
+974,2011,11,05,11/05/2011,W112-95,Suns,West,Spurs,West
+975,2011,11,05,11/05/2011,W117-115,Hawks,East,Cavaliers,East
+976,2011,11,05,11/05/2011,W137-110,Jazz,West,Rockets,West
+977,2011,11,06,11/06/2011,L110-107,Celtics,East,Hawks,East
+978,2011,11,06,11/06/2011,L97-80,Heat,East,Warriors,West
+979,2011,11,06,11/06/2011,L98-92,Nets,East,Suns,West
+980,2011,11,06,11/06/2011,W110-107,Celtics,East,Hawks,East
+981,2011,11,06,11/06/2011,W97-80,Heat,East,Warriors,West
+982,2011,11,06,11/06/2011,W98-92,Nets,East,Suns,West
+983,2011,11,07,11/07/2011,L104-97,76ers,East,Jazz,West
+984,2011,11,07,11/07/2011,L112-104,Nets,East,Nuggets,West
+985,2011,11,07,11/07/2011,L113-99,Mavericks,West,Wizards,East
+986,2011,11,07,11/07/2011,L117-112,Pelicans,West,Pacers,East
+987,2011,11,07,11/07/2011,L118-113,Hornets,East,Knicks,East
+988,2011,11,07,11/07/2011,L119-114,Bulls,East,Raptors,East
+989,2011,11,07,11/07/2011,L120-107,Clippers,West,Spurs,West
+990,2011,11,07,11/07/2011,L124-119,Bucks,East,Cavaliers,East
+991,2011,11,07,11/07/2011,L94-86,Thunder,West,Kings,West
+992,2011,11,07,11/07/2011,L98-97,Grizzlies,West,Blazers,West
+993,2011,11,07,11/07/2011,W104-97,76ers,East,Jazz,West
+994,2011,11,07,11/07/2011,W112-104,Nets,East,Nuggets,West
+995,2011,11,07,11/07/2011,W113-99,Mavericks,West,Wizards,East
+996,2011,11,07,11/07/2011,W117-112,Pelicans,West,Pacers,East
+997,2011,11,07,11/07/2011,W118-113,Hornets,East,Knicks,East
+998,2011,11,07,11/07/2011,W119-114,Bulls,East,Raptors,East
+999,2011,11,07,11/07/2011,W120-107,Clippers,West,Spurs,West
+1000,2011,11,07,11/07/2011,W124-119,Bucks,East,Cavaliers,East
+1001,2011,11,07,11/07/2011,W94-86,Thunder,West,Kings,West
+1002,2011,11,07,11/07/2011,W98-97,Grizzlies,West,Blazers,West
+1003,2011,11,08,11/08/2011,L107-96,Lakers,West,Celtics,East
+1004,2011,11,08,11/08/2011,L112-99,Knicks,East,Magic,East
+1005,2011,11,08,11/08/2011,L114-97,Pacers,East,Pistons,East
+1006,2011,11,08,11/08/2011,L125-101,Timberwolves,West,Warriors,West
+1007,2011,11,08,11/08/2011,L126-115,Heat,East,Suns,West
+1008,2011,11,08,11/08/2011,W107-96,Lakers,West,Celtics,East
+1009,2011,11,08,11/08/2011,W112-99,Knicks,East,Magic,East
+1010,2011,11,08,11/08/2011,W114-97,Pacers,East,Pistons,East
+1011,2011,11,08,11/08/2011,W125-101,Timberwolves,West,Warriors,West
+1012,2011,11,08,11/08/2011,W126-115,Heat,East,Suns,West
+1013,2011,11,09,11/09/2011,L102-94,Thunder,West,Nuggets,West
+1014,2011,11,09,11/09/2011,L109-108,76ers,East,Kings,West
+1015,2011,11,09,11/09/2011,L111-95,Lakers,West,Wizards,East
+1016,2011,11,09,11/09/2011,L117-113,Cavaliers,East,Rockets,West
+1017,2011,11,09,11/09/2011,L122-118,Pelicans,West,Raptors,East
+1018,2011,11,09,11/09/2011,W102-94,Thunder,West,Nuggets,West
+1019,2011,11,09,11/09/2011,W109-108,76ers,East,Kings,West
+1020,2011,11,09,11/09/2011,W111-95,Lakers,West,Wizards,East
+1021,2011,11,09,11/09/2011,W117-113,Cavaliers,East,Rockets,West
+1022,2011,11,09,11/09/2011,W122-118,Pelicans,West,Raptors,East
+1023,2011,11,10,11/10/2011,L101-97,Nets,East,Blazers,West
+1024,2011,11,10,11/10/2011,L105-87,Pacers,East,Bulls,East
+1025,2011,11,10,11/10/2011,L111-104,Hawks,East,Pistons,East
+1026,2011,11,10,11/10/2011,L120-111,Clippers,West,Thunder,West
+1027,2011,11,10,11/10/2011,L128-112,Magic,East,Suns,West
+1028,2011,11,10,11/10/2011,L84-74,Heat,East,Jazz,West
+1029,2011,11,10,11/10/2011,L90-87,Hornets,East,Celtics,East
+1030,2011,11,10,11/10/2011,L94-87,Bucks,East,Spurs,West
+1031,2011,11,10,11/10/2011,W101-97,Nets,East,Blazers,West
+1032,2011,11,10,11/10/2011,W105-87,Pacers,East,Bulls,East
+1033,2011,11,10,11/10/2011,W111-104,Hawks,East,Pistons,East
+1034,2011,11,10,11/10/2011,W120-111,Clippers,West,Thunder,West
+1035,2011,11,10,11/10/2011,W128-112,Magic,East,Suns,West
+1036,2011,11,10,11/10/2011,W84-74,Heat,East,Jazz,West
+1037,2011,11,10,11/10/2011,W90-87,Hornets,East,Celtics,East
+1038,2011,11,10,11/10/2011,W94-87,Bucks,East,Spurs,West
+1039,2011,11,11,11/11/2011,L111-103,Clippers,West,Pelicans,West
+1040,2011,11,11,11/11/2011,L111-104,Cavaliers,East,Mavericks,West
+1041,2011,11,11,11/11/2011,L111-96,Grizzlies,West,Rockets,West
+1042,2011,11,11,11/11/2011,L113-94,Hawks,East,Wizards,East
+1043,2011,11,11,11/11/2011,L114-106,Nets,East,Jazz,West
+1044,2011,11,11,11/11/2011,L118-110,Timberwolves,West,Suns,West
+1045,2011,11,11,11/11/2011,L118-91,Kings,West,Knicks,East
+1046,2011,11,11,11/11/2011,L125-107,Magic,East,Nuggets,West
+1047,2011,11,11,11/11/2011,L133-94,Bulls,East,Spurs,West
+1048,2011,11,11,11/11/2011,L135-114,76ers,East,Warriors,West
+1049,2011,11,11,11/11/2011,L98-90,Lakers,West,Bucks,East
+1050,2011,11,11,11/11/2011,W111-103,Clippers,West,Pelicans,West
+1051,2011,11,11,11/11/2011,W111-104,Cavaliers,East,Mavericks,West
+1052,2011,11,11,11/11/2011,W111-96,Grizzlies,West,Rockets,West
+1053,2011,11,11,11/11/2011,W113-94,Hawks,East,Wizards,East
+1054,2011,11,11,11/11/2011,W114-106,Nets,East,Jazz,West
+1055,2011,11,11,11/11/2011,W118-110,Timberwolves,West,Suns,West
+1056,2011,11,11,11/11/2011,W118-91,Kings,West,Knicks,East
+1057,2011,11,11,11/11/2011,W125-107,Magic,East,Nuggets,West
+1058,2011,11,11,11/11/2011,W133-94,Bulls,East,Spurs,West
+1059,2011,11,11,11/11/2011,W135-114,76ers,East,Warriors,West
+1060,2011,11,11,11/11/2011,W98-90,Lakers,West,Bucks,East
+1061,2011,11,12,11/12/2011,L112-103,Heat,East,Pistons,East
+1062,2011,11,12,11/12/2011,L112-99,Mavericks,West,Thunder,West
+1063,2011,11,12,11/12/2011,L118-95,Rockets,West,Pacers,East
+1064,2011,11,12,11/12/2011,L95-94,Raptors,East,Celtics,East
+1065,2011,11,12,11/12/2011,W112-103,Heat,East,Pistons,East
+1066,2011,11,12,11/12/2011,W112-99,Mavericks,West,Thunder,West
+1067,2011,11,12,11/12/2011,W118-95,Rockets,West,Pacers,East
+1068,2011,11,12,11/12/2011,W95-94,Raptors,East,Celtics,East
+1069,2011,11,13,11/13/2011,L100-93,Lakers,West,Suns,West
+1070,2011,11,13,11/13/2011,L104-101,Cavaliers,East,Knicks,East
+1071,2011,11,13,11/13/2011,L106-105,Hawks,East,Pelicans,West
+1072,2011,11,13,11/13/2011,L109-105,76ers,East,Clippers,West
+1073,2011,11,13,11/13/2011,L109-98,Timberwolves,West,Jazz,West
+1074,2011,11,13,11/13/2011,L110-100,Magic,East,Warriors,West
+1075,2011,11,13,11/13/2011,L110-103,Grizzlies,West,Bucks,East
+1076,2011,11,13,11/13/2011,L110-92,Kings,West,Wizards,East
+1077,2011,11,13,11/13/2011,L99-82,Nuggets,West,Blazers,West
+1078,2011,11,13,11/13/2011,W100-93,Lakers,West,Suns,West
+1079,2011,11,13,11/13/2011,W104-101,Cavaliers,East,Knicks,East
+1080,2011,11,13,11/13/2011,W106-105,Hawks,East,Pelicans,West
+1081,2011,11,13,11/13/2011,W109-105,76ers,East,Clippers,West
+1082,2011,11,13,11/13/2011,W109-98,Timberwolves,West,Jazz,West
+1083,2011,11,13,11/13/2011,W110-100,Magic,East,Warriors,West
+1084,2011,11,13,11/13/2011,W110-103,Grizzlies,West,Bucks,East
+1085,2011,11,13,11/13/2011,W110-92,Kings,West,Wizards,East
+1086,2011,11,13,11/13/2011,W99-82,Nuggets,West,Blazers,West
+1087,2011,11,14,11/14/2011,L109-102,Celtics,East,Nets,East
+1088,2011,11,14,11/14/2011,L129-113,Raptors,East,Rockets,West
+1089,2011,11,14,11/14/2011,L97-91,Spurs,West,Mavericks,West
+1090,2011,11,14,11/14/2011,W109-102,Celtics,East,Nets,East
+1091,2011,11,14,11/14/2011,W129-113,Raptors,East,Rockets,West
+1092,2011,11,14,11/14/2011,W97-91,Spurs,West,Mavericks,West
+1093,2011,11,15,11/15/2011,L102-93,Wizards,East,Heat,East
+1094,2011,11,15,11/15/2011,L106-101,Jazz,West,Knicks,East
+1095,2011,11,15,11/15/2011,L115-107,Cavaliers,East,Hornets,East
+1096,2011,11,15,11/15/2011,L115-109,76ers,East,Lakers,West
+1097,2011,11,15,11/15/2011,L116-113,Pacers,East,Grizzlies,West
+1098,2011,11,15,11/15/2011,L125-116,Raptors,East,Pelicans,West
+1099,2011,11,15,11/15/2011,L126-80,Kings,West,Hawks,East
+1100,2011,11,15,11/15/2011,L92-79,Bulls,East,Thunder,West
+1101,2011,11,15,11/15/2011,L98-86,Spurs,West,Timberwolves,West
+1102,2011,11,15,11/15/2011,L99-94,Magic,East,Blazers,West
+1103,2011,11,15,11/15/2011,L99-95,Pistons,East,Bucks,East
+1104,2011,11,15,11/15/2011,W102-93,Wizards,East,Heat,East
+1105,2011,11,15,11/15/2011,W106-101,Jazz,West,Knicks,East
+1106,2011,11,15,11/15/2011,W115-107,Cavaliers,East,Hornets,East
+1107,2011,11,15,11/15/2011,W115-109,76ers,East,Lakers,West
+1108,2011,11,15,11/15/2011,W116-113,Pacers,East,Grizzlies,West
+1109,2011,11,15,11/15/2011,W125-116,Raptors,East,Pelicans,West
+1110,2011,11,15,11/15/2011,W126-80,Kings,West,Hawks,East
+1111,2011,11,15,11/15/2011,W92-79,Bulls,East,Thunder,West
+1112,2011,11,15,11/15/2011,W98-86,Spurs,West,Timberwolves,West
+1113,2011,11,15,11/15/2011,W99-94,Magic,East,Blazers,West
+1114,2011,11,15,11/15/2011,W99-95,Pistons,East,Bucks,East
+1115,2011,11,16,11/16/2011,L142-116,Rockets,West,Suns,West
+1116,2011,11,16,11/16/2011,L92-88,Warriors,West,Celtics,East
+1117,2011,11,16,11/16/2011,W142-116,Rockets,West,Suns,West
+1118,2011,11,16,11/16/2011,W92-88,Warriors,West,Celtics,East
+1119,2011,11,17,11/17/2011,L104-101,Thunder,West,Spurs,West
+1120,2011,11,17,11/17/2011,L107-100,Pistons,East,Pacers,East
+1121,2011,11,17,11/17/2011,L107-84,Knicks,East,Raptors,East
+1122,2011,11,17,11/17/2011,L111-87,Timberwolves,West,Mavericks,West
+1123,2011,11,17,11/17/2011,L118-107,Jazz,West,Nets,East
+1124,2011,11,17,11/17/2011,L118-113 OT,Clippers,West,Cavaliers,East
+1125,2011,11,17,11/17/2011,L122-113,Suns,West,Lakers,West
+1126,2011,11,17,11/17/2011,L123-120,Hornets,East,Bulls,East
+1127,2011,11,17,11/17/2011,L146-114,Pelicans,West,Nuggets,West
+1128,2011,11,17,11/17/2011,L86-82,Blazers,West,Kings,West
+1129,2011,11,17,11/17/2011,L91-88,Heat,East,Wizards,East
+1130,2011,11,17,11/17/2011,W104-101,Thunder,West,Spurs,West
+1131,2011,11,17,11/17/2011,W107-100,Pistons,East,Pacers,East
+1132,2011,11,17,11/17/2011,W107-84,Knicks,East,Raptors,East
+1133,2011,11,17,11/17/2011,W111-87,Timberwolves,West,Mavericks,West
+1134,2011,11,17,11/17/2011,W118-107,Jazz,West,Nets,East
+1135,2011,11,17,11/17/2011,W118-113 OT,Clippers,West,Cavaliers,East
+1136,2011,11,17,11/17/2011,W122-113,Suns,West,Lakers,West
+1137,2011,11,17,11/17/2011,W123-120,Hornets,East,Bulls,East
+1138,2011,11,17,11/17/2011,W146-114,Pelicans,West,Nuggets,West
+1139,2011,11,17,11/17/2011,W86-82,Blazers,West,Kings,West
+1140,2011,11,17,11/17/2011,W91-88,Heat,East,Wizards,East
+1141,2011,11,18,11/18/2011,L102-87,Clippers,West,Hornets,East
+1142,2011,11,18,11/18/2011,L102-90,Kings,West,Blazers,West
+1143,2011,11,18,11/18/2011,L105-83,Rockets,West,Grizzlies,West
+1144,2011,11,18,11/18/2011,L110-99,Celtics,East,Hawks,East
+1145,2011,11,18,11/18/2011,L111-79,Bucks,East,Mavericks,West
+1146,2011,11,18,11/18/2011,L124-116,Warriors,West,76ers,East
+1147,2011,11,18,11/18/2011,L125-85,Jazz,West,Magic,East
+1148,2011,11,18,11/18/2011,W102-87,Clippers,West,Hornets,East
+1149,2011,11,18,11/18/2011,W102-90,Kings,West,Blazers,West
+1150,2011,11,18,11/18/2011,W105-83,Rockets,West,Grizzlies,West
+1151,2011,11,18,11/18/2011,W110-99,Celtics,East,Hawks,East
+1152,2011,11,18,11/18/2011,W111-79,Bucks,East,Mavericks,West
+1153,2011,11,18,11/18/2011,W124-116,Warriors,West,76ers,East
+1154,2011,11,18,11/18/2011,W125-85,Jazz,West,Magic,East
+1155,2011,11,19,11/19/2011,L100-91,Wizards,East,Raptors,East
+1156,2011,11,19,11/19/2011,L100-97,Pistons,East,Timberwolves,West
+1157,2011,11,19,11/19/2011,L113-105,Bulls,East,Suns,West
+1158,2011,11,19,11/19/2011,L118-111,Warriors,West,Nets,East
+1159,2011,11,19,11/19/2011,L120-95,Pacers,East,Heat,East
+1160,2011,11,19,11/19/2011,L127-109,Nuggets,West,Lakers,West
+1161,2011,11,19,11/19/2011,W100-91,Wizards,East,Raptors,East
+1162,2011,11,19,11/19/2011,W100-97,Pistons,East,Timberwolves,West
+1163,2011,11,19,11/19/2011,W113-105,Bulls,East,Suns,West
+1164,2011,11,19,11/19/2011,W118-111,Warriors,West,Nets,East
+1165,2011,11,19,11/19/2011,W120-95,Pacers,East,Heat,East
+1166,2011,11,19,11/19/2011,W127-109,Nuggets,West,Lakers,West
+1167,2011,11,20,11/20/2011,L100-92,Blazers,West,Grizzlies,West
+1168,2011,11,20,11/20/2011,L105-97,Pacers,East,Magic,East
+1169,2011,11,20,11/20/2011,L107-85,Clippers,West,Knicks,East
+1170,2011,11,20,11/20/2011,L107-86,Jazz,West,76ers,East
+1171,2011,11,20,11/20/2011,L110-102 OT,Celtics,East,Mavericks,West
+1172,2011,11,20,11/20/2011,L114-107,Thunder,West,Pelicans,West
+1173,2011,11,20,11/20/2011,L114-98,Nuggets,West,Kings,West
+1174,2011,11,20,11/20/2011,L116-88,Cavaliers,East,Pistons,East
+1175,2011,11,20,11/20/2011,L118-102,Timberwolves,West,Hornets,East
+1176,2011,11,20,11/20/2011,L96-85,Hawks,East,Spurs,West
+1177,2011,11,20,11/20/2011,L99-88,Wizards,East,Bucks,East
+1178,2011,11,20,11/20/2011,W100-92,Blazers,West,Grizzlies,West
+1179,2011,11,20,11/20/2011,W105-97,Pacers,East,Magic,East
+1180,2011,11,20,11/20/2011,W107-85,Clippers,West,Knicks,East
+1181,2011,11,20,11/20/2011,W107-86,Jazz,West,76ers,East
+1182,2011,11,20,11/20/2011,W110-102 OT,Celtics,East,Mavericks,West
+1183,2011,11,20,11/20/2011,W114-107,Thunder,West,Pelicans,West
+1184,2011,11,20,11/20/2011,W114-98,Nuggets,West,Kings,West
+1185,2011,11,20,11/20/2011,W116-88,Cavaliers,East,Pistons,East
+1186,2011,11,20,11/20/2011,W118-102,Timberwolves,West,Hornets,East
+1187,2011,11,20,11/20/2011,W96-85,Hawks,East,Spurs,West
+1188,2011,11,20,11/20/2011,W99-88,Wizards,East,Bucks,East
+1189,2011,11,21,11/21/2011,L103-94,Bulls,East,Lakers,West
+1190,2011,11,21,11/21/2011,W103-94,Bulls,East,Lakers,West
+1191,2011,11,22,11/22/2011,L101-81,Blazers,West,76ers,East
+1192,2011,11,22,11/22/2011,L104-98,Celtics,East,Heat,East
+1193,2011,11,22,11/22/2011,L107-90,Spurs,West,Pelicans,West
+1194,2011,11,22,11/22/2011,L108-100,Raptors,East,Knicks,East
+1195,2011,11,22,11/22/2011,L108-91,Warriors,West,Thunder,West
+1196,2011,11,22,11/22/2011,L110-80,Bulls,East,Jazz,West
+1197,2011,11,22,11/22/2011,L113-102,Lakers,West,Kings,West
+1198,2011,11,22,11/22/2011,L113-107 OT,Bucks,East,Suns,West
+1199,2011,11,22,11/22/2011,L116-103,Clippers,West,Hawks,East
+1200,2011,11,22,11/22/2011,L119-109,Nets,East,Cavaliers,East
+1201,2011,11,22,11/22/2011,L124-118,Magic,East,Timberwolves,West
+1202,2011,11,22,11/22/2011,L125-95,Nuggets,West,Rockets,West
+1203,2011,11,22,11/22/2011,L129-124 OT,Wizards,East,Hornets,East
+1204,2011,11,22,11/22/2011,L95-94,Mavericks,West,Grizzlies,West
+1205,2011,11,22,11/22/2011,W101-81,Blazers,West,76ers,East
+1206,2011,11,22,11/22/2011,W104-98,Celtics,East,Heat,East
+1207,2011,11,22,11/22/2011,W107-90,Spurs,West,Pelicans,West
+1208,2011,11,22,11/22/2011,W108-100,Raptors,East,Knicks,East
+1209,2011,11,22,11/22/2011,W108-91,Warriors,West,Thunder,West
+1210,2011,11,22,11/22/2011,W110-80,Bulls,East,Jazz,West
+1211,2011,11,22,11/22/2011,W113-102,Lakers,West,Kings,West
+1212,2011,11,22,11/22/2011,W113-107 OT,Bucks,East,Suns,West
+1213,2011,11,22,11/22/2011,W116-103,Clippers,West,Hawks,East
+1214,2011,11,22,11/22/2011,W119-109,Nets,East,Cavaliers,East
+1215,2011,11,22,11/22/2011,W124-118,Magic,East,Timberwolves,West
+1216,2011,11,22,11/22/2011,W125-95,Nuggets,West,Rockets,West
+1217,2011,11,22,11/22/2011,W129-124 OT,Wizards,East,Hornets,East
+1218,2011,11,22,11/22/2011,W95-94,Mavericks,West,Grizzlies,West
+1219,2011,11,24,11/24/2011,L100-99,Hornets,East,Cavaliers,East
+1220,2011,11,24,11/24/2011,L104-92,Grizzlies,West,Nuggets,West
+1221,2011,11,24,11/24/2011,L107-104,Raptors,East,Pacers,East
+1222,2011,11,24,11/24/2011,L109-97,Heat,East,Timberwolves,West
+1223,2011,11,24,11/24/2011,L115-91,Pelicans,West,Suns,West
+1224,2011,11,24,11/24/2011,L116-104,Knicks,East,Hawks,East
+1225,2011,11,24,11/24/2011,L118-103,Magic,East,Celtics,East
+1226,2011,11,24,11/24/2011,L127-125,Blazers,West,Nets,East
+1227,2011,11,24,11/24/2011,L143-94,Bulls,East,Warriors,West
+1228,2011,11,24,11/24/2011,L99-98,Pistons,East,Thunder,West
+1229,2011,11,24,11/24/2011,W100-99,Hornets,East,Cavaliers,East
+1230,2011,11,24,11/24/2011,W104-92,Grizzlies,West,Nuggets,West
+1231,2011,11,24,11/24/2011,W107-104,Raptors,East,Pacers,East
+1232,2011,11,24,11/24/2011,W109-97,Heat,East,Timberwolves,West
+1233,2011,11,24,11/24/2011,W115-91,Pelicans,West,Suns,West
+1234,2011,11,24,11/24/2011,W116-104,Knicks,East,Hawks,East
+1235,2011,11,24,11/24/2011,W118-103,Magic,East,Celtics,East
+1236,2011,11,24,11/24/2011,W127-125,Blazers,West,Nets,East
+1237,2011,11,24,11/24/2011,W143-94,Bulls,East,Warriors,West
+1238,2011,11,24,11/24/2011,W99-98,Pistons,East,Thunder,West
+1239,2011,11,25,11/25/2011,L106-86,Spurs,West,Hornets,East
+1240,2011,11,25,11/25/2011,L108-105,Blazers,West,Wizards,East
+1241,2011,11,25,11/25/2011,L108-98,Celtics,East,Pacers,East
+1242,2011,11,25,11/25/2011,L110-95,Pelicans,West,Warriors,West
+1243,2011,11,25,11/25/2011,L112-78,Raptors,East,Hawks,East
+1244,2011,11,25,11/25/2011,L117-102,Knicks,East,Rockets,West
+1245,2011,11,25,11/25/2011,L121-108,Bucks,East,Jazz,West
+1246,2011,11,25,11/25/2011,L130-111,Magic,East,76ers,East
+1247,2011,11,25,11/25/2011,L97-81,Thunder,West,Mavericks,West
+1248,2011,11,25,11/25/2011,L97-95,Clippers,West,Kings,West
+1249,2011,11,25,11/25/2011,W106-86,Spurs,West,Hornets,East
+1250,2011,11,25,11/25/2011,W108-105,Blazers,West,Wizards,East
+1251,2011,11,25,11/25/2011,W108-98,Celtics,East,Pacers,East
+1252,2011,11,25,11/25/2011,W110-95,Pelicans,West,Warriors,West
+1253,2011,11,25,11/25/2011,W112-78,Raptors,East,Hawks,East
+1254,2011,11,25,11/25/2011,W117-102,Knicks,East,Rockets,West
+1255,2011,11,25,11/25/2011,W121-108,Bucks,East,Jazz,West
+1256,2011,11,25,11/25/2011,W130-111,Magic,East,76ers,East
+1257,2011,11,25,11/25/2011,W97-81,Thunder,West,Mavericks,West
+1258,2011,11,25,11/25/2011,W97-95,Clippers,West,Kings,West
+1259,2011,11,26,11/26/2011,L100-93,Heat,East,Bulls,East
+1260,2011,11,26,11/26/2011,L119-108,Suns,West,Timberwolves,West
+1261,2011,11,26,11/26/2011,L98-88,Nets,East,Grizzlies,West
+1262,2011,11,26,11/26/2011,W100-93,Heat,East,Bulls,East
+1263,2011,11,26,11/26/2011,W119-108,Suns,West,Timberwolves,West
+1264,2011,11,26,11/26/2011,W98-88,Nets,East,Grizzlies,West
+1265,2011,11,27,11/27/2011,L103-91,Blazers,West,Knicks,East
+1266,2011,11,27,11/27/2011,L110-106,Kings,West,Warriors,West
+1267,2011,11,27,11/27/2011,L113-91,Cavaliers,East,76ers,East
+1268,2011,11,27,11/27/2011,L115-108,Mavericks,West,Spurs,West
+1269,2011,11,27,11/27/2011,L117-103,Nets,East,Rockets,West
+1270,2011,11,27,11/27/2011,L118-108,Pistons,East,Celtics,East
+1271,2011,11,27,11/27/2011,L120-115,Lakers,West,Clippers,West
+1272,2011,11,27,11/27/2011,L121-109,Magic,East,Pacers,East
+1273,2011,11,27,11/27/2011,W103-91,Blazers,West,Knicks,East
+1274,2011,11,27,11/27/2011,W110-106,Kings,West,Warriors,West
+1275,2011,11,27,11/27/2011,W113-91,Cavaliers,East,76ers,East
+1276,2011,11,27,11/27/2011,W115-108,Mavericks,West,Spurs,West
+1277,2011,11,27,11/27/2011,W117-103,Nets,East,Rockets,West
+1278,2011,11,27,11/27/2011,W118-108,Pistons,East,Celtics,East
+1279,2011,11,27,11/27/2011,W120-115,Lakers,West,Clippers,West
+1280,2011,11,27,11/27/2011,W121-109,Magic,East,Pacers,East
+1281,2011,11,28,11/28/2011,L104-99,Suns,West,Bulls,East
+1282,2011,11,28,11/28/2011,L106-77,Nuggets,West,Jazz,West
+1283,2011,11,28,11/28/2011,L108-97,Heat,East,Cavaliers,East
+1284,2011,11,28,11/28/2011,L112-87,Bucks,East,Kings,West
+1285,2011,11,28,11/28/2011,L92-89,Wizards,East,Timberwolves,West
+1286,2011,11,28,11/28/2011,W104-99,Suns,West,Bulls,East
+1287,2011,11,28,11/28/2011,W106-77,Nuggets,West,Jazz,West
+1288,2011,11,28,11/28/2011,W108-97,Heat,East,Cavaliers,East
+1289,2011,11,28,11/28/2011,W112-87,Bucks,East,Kings,West
+1290,2011,11,28,11/28/2011,W92-89,Wizards,East,Timberwolves,West
+1291,2011,11,29,11/29/2011,L104-95,Grizzlies,West,Spurs,West
+1292,2011,11,29,11/29/2011,L109-104,Nets,East,Mavericks,West
+1293,2011,11,29,11/29/2011,L115-86,Heat,East,Knicks,East
+1294,2011,11,29,11/29/2011,L118-113,Wizards,East,76ers,East
+1295,2011,11,29,11/29/2011,L118-97,Pacers,East,Rockets,West
+1296,2011,11,29,11/29/2011,L120-102,Timberwolves,West,Pelicans,West
+1297,2011,11,29,11/29/2011,L121-108,Thunder,West,Magic,East
+1298,2011,11,29,11/29/2011,L126-113,Hornets,East,Raptors,East
+1299,2011,11,29,11/29/2011,L127-123 OT,Warriors,West,Lakers,West
+1300,2011,11,29,11/29/2011,L131-107,Suns,West,Pistons,East
+1301,2011,11,29,11/29/2011,W104-95,Grizzlies,West,Spurs,West
+1302,2011,11,29,11/29/2011,W109-104,Nets,East,Mavericks,West
+1303,2011,11,29,11/29/2011,W115-86,Heat,East,Knicks,East
+1304,2011,11,29,11/29/2011,W118-113,Wizards,East,76ers,East
+1305,2011,11,29,11/29/2011,W118-97,Pacers,East,Rockets,West
+1306,2011,11,29,11/29/2011,W120-102,Timberwolves,West,Pelicans,West
+1307,2011,11,29,11/29/2011,W121-108,Thunder,West,Magic,East
+1308,2011,11,29,11/29/2011,W126-113,Hornets,East,Raptors,East
+1309,2011,11,29,11/29/2011,W127-123 OT,Warriors,West,Lakers,West
+1310,2011,11,29,11/29/2011,W131-107,Suns,West,Pistons,East
+1311,2011,11,30,11/30/2011,L103-91,Bucks,East,Blazers,West
+1312,2011,11,30,11/30/2011,L108-97,76ers,East,Celtics,East
+1313,2011,11,30,11/30/2011,L111-110,Bulls,East,Nuggets,West
+1314,2011,11,30,11/30/2011,L121-114,Cavaliers,East,Hawks,East
+1315,2011,11,30,11/30/2011,L126-107,Jazz,West,Clippers,West
+1316,2011,11,30,11/30/2011,W103-91,Bucks,East,Blazers,West
+1317,2011,11,30,11/30/2011,W108-97,76ers,East,Celtics,East
+1318,2011,11,30,11/30/2011,W111-110,Bulls,East,Nuggets,West
+1319,2011,11,30,11/30/2011,W121-114,Cavaliers,East,Hawks,East
+1320,2011,11,30,11/30/2011,W126-107,Jazz,West,Clippers,West
+1321,2011,12,01,12/01/2011,L105-100,Hornets,East,Heat,East
+1322,2011,12,01,12/01/2011,L107-106,Kings,West,Bulls,East
+1323,2011,12,01,12/01/2011,L109-91,Pistons,East,Wizards,East
+1324,2011,12,01,12/01/2011,L111-107,Timberwolves,West,Thunder,West
+1325,2011,12,01,12/01/2011,L114-108,Pelicans,West,Jazz,West
+1326,2011,12,01,12/01/2011,L120-115,Pacers,East,Raptors,East
+1327,2011,12,01,12/01/2011,L133-112,Warriors,West,Magic,East
+1328,2011,12,01,12/01/2011,L95-79,Spurs,West,Grizzlies,West
+1329,2011,12,01,12/01/2011,W105-100,Hornets,East,Heat,East
+1330,2011,12,01,12/01/2011,W107-106,Kings,West,Bulls,East
+1331,2011,12,01,12/01/2011,W109-91,Pistons,East,Wizards,East
+1332,2011,12,01,12/01/2011,W111-107,Timberwolves,West,Thunder,West
+1333,2011,12,01,12/01/2011,W114-108,Pelicans,West,Jazz,West
+1334,2011,12,01,12/01/2011,W120-115,Pacers,East,Raptors,East
+1335,2011,12,01,12/01/2011,W133-112,Warriors,West,Magic,East
+1336,2011,12,01,12/01/2011,W95-79,Spurs,West,Grizzlies,West
+1337,2011,12,02,12/02/2011,L108-103,Pistons,East,76ers,East
+1338,2011,12,02,12/02/2011,L108-82,Clippers,West,Mavericks,West
+1339,2011,12,02,12/02/2011,L109-104,Kings,West,Bucks,East
+1340,2011,12,02,12/02/2011,L114-102,Hawks,East,Nets,East
+1341,2011,12,02,12/02/2011,L115-100,Lakers,West,Nuggets,West
+1342,2011,12,02,12/02/2011,L116-111,Grizzlies,West,Cavaliers,East
+1343,2011,12,02,12/02/2011,L116-111,Suns,West,Celtics,East
+1344,2011,12,02,12/02/2011,L123-116,Pelicans,West,Blazers,West
+1345,2011,12,02,12/02/2011,W108-103,Pistons,East,76ers,East
+1346,2011,12,02,12/02/2011,W108-82,Clippers,West,Mavericks,West
+1347,2011,12,02,12/02/2011,W109-104,Kings,West,Bucks,East
+1348,2011,12,02,12/02/2011,W114-102,Hawks,East,Nets,East
+1349,2011,12,02,12/02/2011,W115-100,Lakers,West,Nuggets,West
+1350,2011,12,02,12/02/2011,W116-111,Grizzlies,West,Cavaliers,East
+1351,2011,12,02,12/02/2011,W116-111,Suns,West,Celtics,East
+1352,2011,12,02,12/02/2011,W123-116,Pelicans,West,Blazers,West
+1353,2011,12,03,12/03/2011,L105-100,Magic,East,Knicks,East
+1354,2011,12,03,12/03/2011,L112-106,Clippers,West,Timberwolves,West
+1355,2011,12,03,12/03/2011,L118-95,Rockets,West,Lakers,West
+1356,2011,12,03,12/03/2011,L123-95,Warriors,West,Heat,East
+1357,2011,12,03,12/03/2011,L90-87,Spurs,West,Thunder,West
+1358,2011,12,03,12/03/2011,W105-100,Magic,East,Knicks,East
+1359,2011,12,03,12/03/2011,W112-106,Clippers,West,Timberwolves,West
+1360,2011,12,03,12/03/2011,W118-95,Rockets,West,Lakers,West
+1361,2011,12,03,12/03/2011,W123-95,Warriors,West,Heat,East
+1362,2011,12,03,12/03/2011,W90-87,Spurs,West,Thunder,West
+1363,2011,12,04,12/04/2011,L104-94,Magic,East,Hornets,East
+1364,2011,12,04,12/04/2011,L110-90,Nets,East,Hawks,East
+1365,2011,12,04,12/04/2011,L111-100,Bucks,East,Celtics,East
+1366,2011,12,04,12/04/2011,L113-91,Cavaliers,East,Bulls,East
+1367,2011,12,04,12/04/2011,L115-101,Suns,West,76ers,East
+1368,2011,12,04,12/04/2011,L115-97,Knicks,East,Pacers,East
+1369,2011,12,04,12/04/2011,L116-69,Wizards,East,Jazz,West
+1370,2011,12,04,12/04/2011,L122-105,Nuggets,West,Mavericks,West
+1371,2011,12,04,12/04/2011,L125-115,Warriors,West,Pelicans,West
+1372,2011,12,04,12/04/2011,L95-92,Timberwolves,West,Grizzlies,West
+1373,2011,12,04,12/04/2011,L96-93,Pistons,East,Spurs,West
+1374,2011,12,04,12/04/2011,W104-94,Magic,East,Hornets,East
+1375,2011,12,04,12/04/2011,W110-90,Nets,East,Hawks,East
+1376,2011,12,04,12/04/2011,W111-100,Bucks,East,Celtics,East
+1377,2011,12,04,12/04/2011,W113-91,Cavaliers,East,Bulls,East
+1378,2011,12,04,12/04/2011,W115-101,Suns,West,76ers,East
+1379,2011,12,04,12/04/2011,W115-97,Knicks,East,Pacers,East
+1380,2011,12,04,12/04/2011,W116-69,Wizards,East,Jazz,West
+1381,2011,12,04,12/04/2011,W122-105,Nuggets,West,Mavericks,West
+1382,2011,12,04,12/04/2011,W125-115,Warriors,West,Pelicans,West
+1383,2011,12,04,12/04/2011,W95-92,Timberwolves,West,Grizzlies,West
+1384,2011,12,04,12/04/2011,W96-93,Pistons,East,Spurs,West
+1385,2011,12,05,12/05/2011,L100-94,Jazz,West,Thunder,West
+1386,2011,12,05,12/05/2011,L106-92,Wizards,East,Blazers,West
+1387,2011,12,05,12/05/2011,L126-113,Suns,West,Raptors,East
+1388,2011,12,05,12/05/2011,W100-94,Jazz,West,Thunder,West
+1389,2011,12,05,12/05/2011,W106-92,Wizards,East,Blazers,West
+1390,2011,12,05,12/05/2011,W126-113,Suns,West,Raptors,East
+1391,2011,12,06,12/06/2011,L101-87,Warriors,West,Hornets,East
+1392,2011,12,06,12/06/2011,L101-95,Kings,West,Cavaliers,East
+1393,2011,12,06,12/06/2011,L104-100,Pistons,East,Bucks,East
+1394,2011,12,06,12/06/2011,L110-106 OT,Hawks,East,Magic,East
+1395,2011,12,06,12/06/2011,L113-107,Timberwolves,West,Clippers,West
+1396,2011,12,06,12/06/2011,L117-105,Heat,East,Spurs,West
+1397,2011,12,06,12/06/2011,L123-114,Nuggets,West,Pelicans,West
+1398,2011,12,06,12/06/2011,L97-90,Mavericks,West,Celtics,East
+1399,2011,12,06,12/06/2011,L98-96,Bulls,East,Pacers,East
+1400,2011,12,06,12/06/2011,L99-88,Grizzlies,West,Knicks,East
+1401,2011,12,06,12/06/2011,W101-87,Warriors,West,Hornets,East
+1402,2011,12,06,12/06/2011,W101-95,Kings,West,Cavaliers,East
+1403,2011,12,06,12/06/2011,W104-100,Pistons,East,Bucks,East
+1404,2011,12,06,12/06/2011,W110-106 OT,Hawks,East,Magic,East
+1405,2011,12,06,12/06/2011,W113-107,Timberwolves,West,Clippers,West
+1406,2011,12,06,12/06/2011,W117-105,Heat,East,Spurs,West
+1407,2011,12,06,12/06/2011,W123-114,Nuggets,West,Pelicans,West
+1408,2011,12,06,12/06/2011,W97-90,Mavericks,West,Celtics,East
+1409,2011,12,06,12/06/2011,W98-96,Bulls,East,Pacers,East
+1410,2011,12,06,12/06/2011,W99-88,Grizzlies,West,Knicks,East
+1411,2011,12,07,12/07/2011,L100-95,Thunder,West,Nets,East
+1412,2011,12,07,12/07/2011,L107-104,Lakers,West,76ers,East
+1413,2011,12,07,12/07/2011,L109-99,Wizards,East,Suns,West
+1414,2011,12,07,12/07/2011,L112-101,Rockets,West,Jazz,West
+1415,2011,12,07,12/07/2011,W100-95,Thunder,West,Nets,East
+1416,2011,12,07,12/07/2011,W107-104,Lakers,West,76ers,East
+1417,2011,12,07,12/07/2011,W109-99,Wizards,East,Suns,West
+1418,2011,12,07,12/07/2011,W112-101,Rockets,West,Jazz,West
+1419,2011,12,08,12/08/2011,L102-98,Warriors,West,Pistons,East
+1420,2011,12,08,12/08/2011,L103-89,Nuggets,West,Magic,East
+1421,2011,12,08,12/08/2011,L105-102,Celtics,East,Spurs,West
+1422,2011,12,08,12/08/2011,L106-102,Cavaliers,East,Pacers,East
+1423,2011,12,08,12/08/2011,L109-102,Mavericks,West,Bucks,East
+1424,2011,12,08,12/08/2011,L116-107,Raptors,East,Grizzlies,West
+1425,2011,12,08,12/08/2011,L116-109 OT,Kings,West,Pelicans,West
+1426,2011,12,08,12/08/2011,L119-111 OT,Bulls,East,Hornets,East
+1427,2011,12,08,12/08/2011,W102-98,Warriors,West,Pistons,East
+1428,2011,12,08,12/08/2011,W103-89,Nuggets,West,Magic,East
+1429,2011,12,08,12/08/2011,W105-102,Celtics,East,Spurs,West
+1430,2011,12,08,12/08/2011,W106-102,Cavaliers,East,Pacers,East
+1431,2011,12,08,12/08/2011,W109-102,Mavericks,West,Bucks,East
+1432,2011,12,08,12/08/2011,W116-107,Raptors,East,Grizzlies,West
+1433,2011,12,08,12/08/2011,W116-109 OT,Kings,West,Pelicans,West
+1434,2011,12,08,12/08/2011,W119-111 OT,Bulls,East,Hornets,East
+1435,2011,12,09,12/09/2011,L101-89,Heat,East,Nets,East
+1436,2011,12,09,12/09/2011,L102-101 OT,Thunder,West,Grizzlies,West
+1437,2011,12,09,12/09/2011,L104-101,Spurs,West,Suns,West
+1438,2011,12,09,12/09/2011,L104-102,Knicks,East,Bulls,East
+1439,2011,12,09,12/09/2011,L105-98,76ers,East,Cavaliers,East
+1440,2011,12,09,12/09/2011,L110-99,Lakers,West,Hornets,East
+1441,2011,12,09,12/09/2011,L113-112,Wizards,East,Clippers,West
+1442,2011,12,09,12/09/2011,L117-100,Jazz,West,Bucks,East
+1443,2011,12,09,12/09/2011,L117-110,Magic,East,Hawks,East
+1444,2011,12,09,12/09/2011,L124-117,Rockets,West,Blazers,West
+1445,2011,12,09,12/09/2011,W101-89,Heat,East,Nets,East
+1446,2011,12,09,12/09/2011,W102-101 OT,Thunder,West,Grizzlies,West
+1447,2011,12,09,12/09/2011,W104-101,Spurs,West,Suns,West
+1448,2011,12,09,12/09/2011,W104-102,Knicks,East,Bulls,East
+1449,2011,12,09,12/09/2011,W105-98,76ers,East,Cavaliers,East
+1450,2011,12,09,12/09/2011,W110-99,Lakers,West,Hornets,East
+1451,2011,12,09,12/09/2011,W113-112,Wizards,East,Clippers,West
+1452,2011,12,09,12/09/2011,W117-100,Jazz,West,Bucks,East
+1453,2011,12,09,12/09/2011,W117-110,Magic,East,Hawks,East
+1454,2011,12,09,12/09/2011,W124-117,Rockets,West,Blazers,West
+1455,2011,12,10,12/10/2011,L102-87,Raptors,East,Kings,West
+1456,2011,12,10,12/10/2011,L111-107,Hawks,East,Knicks,East
+1457,2011,12,10,12/10/2011,L126-116 OT,Nuggets,West,Pacers,East
+1458,2011,12,10,12/10/2011,L131-124,76ers,East,Pelicans,West
+1459,2011,12,10,12/10/2011,L91-81,Celtics,East,Pistons,East
+1460,2011,12,10,12/10/2011,L97-92,Mavericks,West,Timberwolves,West
+1461,2011,12,10,12/10/2011,W102-87,Raptors,East,Kings,West
+1462,2011,12,10,12/10/2011,W111-107,Hawks,East,Knicks,East
+1463,2011,12,10,12/10/2011,W126-116 OT,Nuggets,West,Pacers,East
+1464,2011,12,10,12/10/2011,W131-124,76ers,East,Pelicans,West
+1465,2011,12,10,12/10/2011,W91-81,Celtics,East,Pistons,East
+1466,2011,12,10,12/10/2011,W97-92,Mavericks,West,Timberwolves,West
+1467,2011,12,11,12/11/2011,10:30 PM,Raptors,East,Clippers,West
+1468,2011,12,11,12/11/2011,10:30 PM,Blazers,West,Warriors,West
+1469,2011,12,11,12/11/2011,8:00 PM,Celtics,East,Bulls,East
+1470,2011,12,11,12/11/2011,8:00 PM,Heat,East,Grizzlies,West
+1471,2011,12,11,12/11/2011,8:00 PM,Pelicans,West,Rockets,West
+1472,2011,12,11,12/11/2011,8:00 PM,Hornets,East,Thunder,West
+1473,2011,12,12,12/12/2011,10:00 PM,Suns,West,Kings,West
+1474,2011,12,12,12/12/2011,7:00 PM,Hawks,East,Cavaliers,East
+1475,2011,12,12,12/12/2011,7:00 PM,Lakers,West,Knicks,East
+1476,2011,12,12,12/12/2011,7:00 PM,Nuggets,West,Pistons,East
+1477,2011,12,12,12/12/2011,7:30 PM,Wizards,East,Nets,East
+1478,2011,12,12,12/12/2011,8:30 PM,Spurs,West,Mavericks,West
+1479,2011,12,12,12/12/2011,9:30 PM,76ers,East,Timberwolves,West
+1480,2011,12,13,12/13/2011,7:00 PM,Clippers,West,Magic,East
+1481,2011,12,13,12/13/2011,7:00 PM,Thunder,West,Pacers,East
+1482,2011,12,13,12/13/2011,7:00 PM,Grizzlies,West,Wizards,East
+1483,2011,12,13,12/13/2011,7:30 PM,Nuggets,West,Celtics,East
+1484,2011,12,13,12/13/2011,7:30 PM,Blazers,West,Heat,East
+1485,2011,12,13,12/13/2011,8:00 PM,Jazz,West,Bulls,East
+1486,2011,12,13,12/13/2011,8:00 PM,Bucks,East,Pelicans,West
+1487,2011,12,13,12/13/2011,9:00 PM,Raptors,East,Suns,West
+1488,2011,12,13,12/13/2011,9:30 PM,Hornets,East,Rockets,West
+1489,2011,12,14,12/14/2011,10:30 PM,Mavericks,West,Warriors,West
+1490,2011,12,14,12/14/2011,7:30 PM,Pistons,East,Hawks,East
+1491,2011,12,14,12/14/2011,7:30 PM,Knicks,East,Nets,East
+1492,2011,12,14,12/14/2011,8:00 PM,Lakers,West,Cavaliers,East
+1493,2011,12,14,12/14/2011,8:00 PM,Kings,West,Timberwolves,West
+1494,2011,12,15,12/15/2011,7:00 PM,Thunder,West,76ers,East
+1495,2011,12,15,12/15/2011,7:00 PM,Heat,East,Hornets,East
+1496,2011,12,15,12/15/2011,7:00 PM,Blazers,West,Magic,East
+1497,2011,12,15,12/15/2011,7:00 PM,Pistons,East,Pacers,East
+1498,2011,12,15,12/15/2011,7:00 PM,Clippers,West,Wizards,East
+1499,2011,12,15,12/15/2011,7:30 PM,Jazz,West,Celtics,East
+1500,2011,12,15,12/15/2011,7:30 PM,Nets,East,Raptors,East
+1501,2011,12,15,12/15/2011,8:00 PM,Bulls,East,Bucks,East
+1502,2011,12,15,12/15/2011,8:00 PM,Hawks,East,Grizzlies,West
+1503,2011,12,15,12/15/2011,9:00 PM,Pelicans,West,Nuggets,West
+1504,2011,12,15,12/15/2011,9:30 PM,Spurs,West,Rockets,West
+1505,2011,12,16,12/16/2011,7:00 PM,Blazers,West,Hornets,East
+1506,2011,12,16,12/16/2011,7:30 PM,Jazz,West,Cavaliers,East
+1507,2011,12,16,12/16/2011,7:30 PM,Thunder,West,Knicks,East
+1508,2011,12,16,12/16/2011,8:00 PM,Clippers,West,Heat,East
+1509,2011,12,16,12/16/2011,8:00 PM,Bucks,East,Rockets,West
+1510,2011,12,16,12/16/2011,8:00 PM,Suns,West,Timberwolves,West
+1511,2011,12,16,12/16/2011,8:30 PM,Mavericks,West,Spurs,West
+1512,2011,12,16,12/16/2011,9:00 PM,Celtics,East,Grizzlies,West
+1513,2011,12,17,12/17/2011,3:30 PM,Kings,West,Raptors,East
+1514,2011,12,17,12/17/2011,4:00 PM,Magic,East,Pistons,East
+1515,2011,12,17,12/17/2011,6:00 PM,Pacers,East,Nets,East
+1516,2011,12,17,12/17/2011,6:00 PM,Cavaliers,East,Wizards,East
+1517,2011,12,18,12/18/2011,10:30 PM,Warriors,West,Lakers,West
+1518,2011,12,18,12/18/2011,7:00 PM,Knicks,East,Hornets,East
+1519,2011,12,18,12/18/2011,7:00 PM,Celtics,East,Pacers,East
+1520,2011,12,18,12/18/2011,7:30 PM,Heat,East,Hawks,East
+1521,2011,12,18,12/18/2011,8:00 PM,76ers,East,Bulls,East
+1522,2011,12,18,12/18/2011,8:00 PM,Jazz,West,Rockets,West
+1523,2011,12,18,12/18/2011,8:00 PM,Nuggets,West,Thunder,West
+1524,2011,12,18,12/18/2011,8:00 PM,Blazers,West,Timberwolves,West
+1525,2011,12,18,12/18/2011,8:30 PM,Suns,West,Mavericks,West
+1526,2011,12,18,12/18/2011,8:30 PM,Clippers,West,Spurs,West
+1527,2011,12,19,12/19/2011,7:00 PM,Kings,West,76ers,East
+1528,2011,12,19,12/19/2011,7:00 PM,Pelicans,West,Wizards,East
+1529,2011,12,19,12/19/2011,8:00 PM,Cavaliers,East,Bucks,East
+1530,2011,12,20,12/20/2011,10:00 PM,Spurs,West,Blazers,West
+1531,2011,12,20,12/20/2011,10:30 PM,Suns,West,Clippers,West
+1532,2011,12,20,12/20/2011,10:30 PM,Grizzlies,West,Warriors,West
+1533,2011,12,20,12/20/2011,7:00 PM,Raptors,East,Hornets,East
+1534,2011,12,20,12/20/2011,7:30 PM,Heat,East,Celtics,East
+1535,2011,12,20,12/20/2011,7:30 PM,Pacers,East,Hawks,East
+1536,2011,12,20,12/20/2011,7:30 PM,Kings,West,Nets,East
+1537,2011,12,20,12/20/2011,8:00 PM,Magic,East,Bulls,East
+1538,2011,12,20,12/20/2011,8:00 PM,Lakers,West,Rockets,West
+1539,2011,12,20,12/20/2011,8:00 PM,Jazz,West,Thunder,West
+1540,2011,12,20,12/20/2011,8:30 PM,Pistons,East,Mavericks,West
+1541,2011,12,20,12/20/2011,9:00 PM,Timberwolves,West,Nuggets,West
+1542,2011,12,21,12/21/2011,10:30 PM,Spurs,West,Jazz,West
+1543,2011,12,21,12/21/2011,7:00 PM,Raptors,East,76ers,East
+1544,2011,12,21,12/21/2011,7:00 PM,Bulls,East,Cavaliers,East
+1545,2011,12,21,12/21/2011,8:00 PM,Celtics,East,Knicks,East
+1546,2011,12,21,12/21/2011,9:00 PM,Grizzlies,West,Suns,West
+1547,2011,12,22,12/22/2011,10:00 PM,Nuggets,West,Blazers,West
+1548,2011,12,22,12/22/2011,10:30 PM,Lakers,West,Warriors,West
+1549,2011,12,22,12/22/2011,7:00 PM,Pelicans,West,Magic,East
+1550,2011,12,22,12/22/2011,7:00 PM,Knicks,East,Pistons,East
+1551,2011,12,22,12/22/2011,7:30 PM,Wizards,East,Nets,East
+1552,2011,12,22,12/22/2011,8:00 PM,Hornets,East,Bucks,East
+1553,2011,12,22,12/22/2011,8:00 PM,Mavericks,West,Heat,East
+1554,2011,12,22,12/22/2011,8:00 PM,Clippers,West,Rockets,West
+1555,2011,12,22,12/22/2011,8:00 PM,Hawks,East,Thunder,West
+1556,2011,12,23,12/23/2011,10:00 PM,Spurs,West,Kings,West
+1557,2011,12,23,12/23/2011,5:00 PM,76ers,East,Raptors,East
+1558,2011,12,23,12/23/2011,7:00 PM,Bucks,East,Hornets,East
+1559,2011,12,23,12/23/2011,7:00 PM,Nets,East,Pacers,East
+1560,2011,12,23,12/23/2011,7:00 PM,Magic,East,Wizards,East
+1561,2011,12,23,12/23/2011,7:30 PM,Bulls,East,Celtics,East
+1562,2011,12,23,12/23/2011,7:30 PM,Mavericks,West,Hawks,East
+1563,2011,12,23,12/23/2011,8:00 PM,Clippers,West,Grizzlies,West
+1564,2011,12,23,12/23/2011,8:00 PM,Pelicans,West,Heat,East
+1565,2011,12,23,12/23/2011,8:00 PM,Thunder,West,Jazz,West
+1566,2011,12,23,12/23/2011,8:30 PM,Nuggets,West,Warriors,West
+1567,2011,12,23,12/23/2011,9:00 PM,Timberwolves,West,Suns,West
+1568,2011,12,23,12/23/2011,9:30 PM,Blazers,West,Lakers,West
+1569,2011,12,25,12/25/2011,10:30 PM,Timberwolves,West,Lakers,West
+1570,2011,12,25,12/25/2011,12:00 PM,76ers,East,Knicks,East
+1571,2011,12,25,12/25/2011,3:00 PM,Cavaliers,East,Warriors,West
+1572,2011,12,25,12/25/2011,5:30 PM,Wizards,East,Celtics,East
+1573,2011,12,25,12/25/2011,8:00 PM,Rockets,West,Thunder,West
+1574,2011,12,26,12/26/2011,10:30 PM,Kings,West,Clippers,West
+1575,2011,12,26,12/26/2011,7:00 PM,Raptors,East,Mavericks,West
+1576,2011,12,26,12/26/2011,7:00 PM,Pacers,East,Pistons,East
+1577,2011,12,26,12/26/2011,7:30 PM,Magic,East,Heat,East
+1578,2011,12,26,12/26/2011,8:00 PM,Bulls,East,Bucks,East
+1579,2011,12,26,12/26/2011,8:30 PM,Nets,East,Spurs,West
+1580,2011,12,26,12/26/2011,9:00 PM,Jazz,West,Nuggets,West
+1581,2011,12,26,12/26/2011,9:00 PM,Grizzlies,West,Suns,West
+1582,2011,12,27,12/27/2011,10:00 PM,Cavaliers,East,Kings,West
+1583,2011,12,27,12/27/2011,10:30 PM,Grizzlies,West,Lakers,West
+1584,2011,12,27,12/27/2011,10:30 PM,Jazz,West,Warriors,West
+1585,2011,12,27,12/27/2011,7:00 PM,Celtics,East,Hornets,East
+1586,2011,12,27,12/27/2011,7:00 PM,Mavericks,West,Pacers,East
+1587,2011,12,27,12/27/2011,7:30 PM,Wizards,East,Hawks,East
+1588,2011,12,27,12/27/2011,8:00 PM,Knicks,East,Bulls,East
+1589,2011,12,27,12/27/2011,8:00 PM,Nets,East,Pelicans,West
+1590,2011,12,27,12/27/2011,8:00 PM,Raptors,East,Thunder,West
+1591,2011,12,27,12/27/2011,8:00 PM,Nuggets,West,Timberwolves,West
+1592,2011,12,28,12/28/2011,10:30 PM,76ers,East,Blazers,West
+1593,2011,12,28,12/28/2011,7:00 PM,Pistons,East,Magic,East
+1594,2011,12,28,12/28/2011,8:00 PM,Timberwolves,West,Bucks,East
+1595,2011,12,28,12/28/2011,8:00 PM,Rockets,West,Celtics,East
+1596,2011,12,28,12/28/2011,8:30 PM,Knicks,East,Spurs,West
+1597,2011,12,29,12/29/2011,10:00 PM,Suns,West,Kings,West
+1598,2011,12,29,12/29/2011,10:30 PM,Clippers,West,Lakers,West
+1599,2011,12,29,12/29/2011,10:30 PM,Hornets,East,Warriors,West
+1600,2011,12,29,12/29/2011,7:00 PM,Rockets,West,Wizards,East
+1601,2011,12,29,12/29/2011,7:30 PM,Hawks,East,Raptors,East
+1602,2011,12,29,12/29/2011,8:00 PM,Pacers,East,Bulls,East
+1603,2011,12,29,12/29/2011,8:00 PM,Nets,East,Heat,East
+1604,2011,12,29,12/29/2011,8:00 PM,Mavericks,West,Pelicans,West
+1605,2011,12,29,12/29/2011,8:00 PM,Bucks,East,Thunder,West
+1606,2011,12,30,12/30/2011,7:00 PM,Heat,East,Magic,East
+1607,2011,12,30,12/30/2011,7:00 PM,Knicks,East,Pelicans,West
+1608,2011,12,30,12/30/2011,7:00 PM,Spurs,West,Pistons,East
+1609,2011,12,30,12/30/2011,7:30 PM,Blazers,West,Hawks,East
+1610,2011,12,30,12/30/2011,8:00 PM,Cavaliers,East,Jazz,West
+1611,2011,12,30,12/30/2011,8:30 PM,Grizzlies,West,Warriors,West
+1612,2011,12,30,12/30/2011,9:00 PM,76ers,East,Nuggets,West
+1613,2011,12,31,12/31/2011,3:30 PM,Bulls,East,Wizards,East
+1614,2011,12,31,12/31/2011,5:00 PM,Timberwolves,West,Pacers,East
+1615,2011,12,31,12/31/2011,5:30 PM,Nets,East,Celtics,East
+1616,2011,12,31,12/31/2011,7:00 PM,Hornets,East,Clippers,West
+1617,2011,12,31,12/31/2011,7:00 PM,Grizzlies,West,Kings,West
+1618,2011,12,31,12/31/2011,7:00 PM,Lakers,West,Rockets,West
+1619,2011,12,31,12/31/2011,7:00 PM,Mavericks,West,Thunder,West
+1620,2011,12,31,12/31/2011,8:00 PM,76ers,East,Suns,West
