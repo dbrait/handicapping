@@ -20,7 +20,7 @@ str(MLB2016)
 summary(MLB2016$Lines)
 
 
-SetCredentials("db255364", "Baffin1740")
+SetCredentials("##", "##")
 
 sport_data <- GetSports()
 golf_id <- with(sport_data, id[name=="Golf"])
